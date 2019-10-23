@@ -1,0 +1,6 @@
+# Host names
+
+- We try to follow:
+  [https://support.microsoft.com/en-us/help/909264/naming-conventions-in-active-directory-for-computers-domains-sites-and ](https://nam05.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsupport.microsoft.com%2Fen-us%2Fhelp%2F909264%2Fnaming-conventions-in-active-directory-for-computers-domains-sites-and&data=02|01|Heather.Fazio%40thycotic.com|3e93abeccf8744e8816f08d73d2e3836|1f645c37ab5344758183733a4df64da3|1|0|637045141064086760&sdata=oATJKOY6P5rztPada8DuK%2FEyevMc%2BsT6J%2BiZJU3xhZ8%3D&reserved=0)
+  - An underscore "_" in the host name is not currently supported. Specifically, “The underscore has a special role, as it is permitted for the first character in SRV records by RFC definition, but newer DNS servers may also allow it anywhere in a name. For more details, see: [http://technet.microsoft.com/en-us/library/cc959336.aspx](https://nam05.safelinks.protection.outlook.com/?url=http%3A%2F%2Ftechnet.microsoft.com%2Fen-us%2Flibrary%2Fcc959336.aspx&data=02|01|Heather.Fazio%40thycotic.com|3e93abeccf8744e8816f08d73d2e3836|1f645c37ab5344758183733a4df64da3|1|0|637045141064096748&sdata=%2BNPuu7tkDp6dohgW2GT1uSRgI%2Byci3PULCfEaAQnX3A%3D&reserved=0).”
+
