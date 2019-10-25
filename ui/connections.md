@@ -1,3 +1,3 @@
 # Connections
 
-![connections](C:\Thycotic.ConnectionManager.Docs\ui\images\connections.png)
+![connections](/ss-connections-screen.png)

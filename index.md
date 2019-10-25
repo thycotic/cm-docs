@@ -1,6 +1,6 @@
 # Introduction to Connection Manager
 
-Connection Manager is a program for initiating and maintaining one or more connections from a computer desktop to remote servers or processes using standard remote protocols such as Windows Remote Desk Protocol and Unix Secure SHell. 
+With Thycotic Connection Manager, IT teams can launch ad-hoc connections to manage sessions with remote resources, navigating Remote Desktop Protocol (RDP) and Unix Secure SHell (SSH) connection protocols as needed. Management of multiple active sessions is easy. You can store and organize connections by adding them to your favorites and import any folder structure or connections used in other tools for a single management hub.
 
 It marks an expansion of Thycotic’s product line to include remote connectivity tools closely integrated with Secret Server. It permits technical staff to quickly access resources using the convenience of a familiar, rich desktop interface while maintaining all the safeguards and workflows included with Secret Server.
 

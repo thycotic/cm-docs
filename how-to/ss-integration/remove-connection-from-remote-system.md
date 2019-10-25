@@ -6,6 +6,6 @@ A Local connection may be deleted from Connection manager. This action is NOT re
 
 2. Right-click the connection and select **Delete** from the menu. A confirmation dialog box will open.
 
-![del-conn](images/del-conn.png)
+![del-conn](/del-conn-remote-sys.png)
 
 3. Click **Yes** to confirm.  
