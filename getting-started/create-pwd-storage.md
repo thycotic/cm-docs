@@ -10,7 +10,7 @@ When Connection Manager is launched for the first time, or if no file storage is
 
 When starting the application after entering the local password, the following window appears. 
 
-![CreateStorforConnections](C:\Thycotic.ConnectionManager.Docs\getting-started\images\CreateStorforConnections.png)
+![CreateStorforConnections](/create-pwd-storage.png)
 
 1. Enter the **password** to start the application.
 

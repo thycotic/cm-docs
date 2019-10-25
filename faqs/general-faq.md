@@ -8,7 +8,7 @@
 
 **Question**: Is there a local session timeout for sessions within Connection Manager (CM)?
 
-**Answer**:  Yes. For Local: Windows default socket connect timeout will apply (e.g. standard RDP/SSH remote session timeout). Session timeouts on secrets can be set in Secret Server (SS).
+**Answer**:  Yes. For Local: Windows default socket connect timeout will apply (E.g. standard RDP/SSH remote session timeout). Session timeouts on secrets can be set in Secret Server (SS).
 
  
 

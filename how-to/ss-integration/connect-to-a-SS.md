@@ -4,3 +4,4 @@ When the application starts, any configured Secret Server connection will be dis
 
 To re-authenticate the Secret Server connection, double-click **the closed-lock icon** in the navigation tree, or right-click and select **Connect**.
 
+![locked-connection](/locked-connection.png)

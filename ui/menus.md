@@ -4,12 +4,12 @@ There are several menu types available in the user interface: an overall menu av
 
 ## Hamburger Menu
 
-![ham-menu](C:\Thycotic.ConnectionManager.Docs\ui\images\ham-menu.png)
+![ham-menu](/hamburger-menu.png)
 
 ## Right-click Navigation Menu
 
-![rt-clk-menu](C:\Thycotic.ConnectionManager.Docs\ui\images\rt-clk-menu.png)
+![rt-clk-menu](/right-click-nav-manu.png)
 
 ## Work Area Menu
 
-![work-area-menu](C:\Thycotic.ConnectionManager.Docs\ui\images\work-area-menu.png)
+![work-area-menu](/work-area-menu.png)
