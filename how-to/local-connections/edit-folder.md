@@ -4,7 +4,7 @@
 
 2. From the Folder properties area, click the **Edit** option. 
 
-![edit-fol](C:\Thycotic.ConnectionManager.Docs\how-to\images\edit-fol.png)
+![edit-fol](images/edit-fol.png)
 
 3. From the Edit options, make any desired change to the folder, and click **Save**.
 

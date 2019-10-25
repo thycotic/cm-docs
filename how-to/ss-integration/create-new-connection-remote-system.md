@@ -8,13 +8,13 @@ All required fields and the appropriate optional fields must be filled out. If y
 
 2. Right-click the **folder name** and select **New Connection** followed by the **connection type** (RDP or SSH).
 
-![create-new-conn](C:\Thycotic.ConnectionManager.Docs\how-to\images\create-new-conn.png)
+![create-new-conn](images/create-new-conn.png)
 
 3. Dependent upon the connection type (RDP or SSH), a dialogue box will open. The options will vary based on the type of connection selected.   
 
-![edit-rdp](C:\Thycotic.ConnectionManager.Docs\how-to\images\edit-rdp.png)
+![edit-rdp](images/edit-rdp.png)
 
-![edit-ssh](C:\Thycotic.ConnectionManager.Docs\how-to\images\edit-ssh.png)
+![edit-ssh](images/edit-ssh.png)
 
 **Note**: The defaults value setting may be modified under the Configuration option.
 

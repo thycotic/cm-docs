@@ -4,7 +4,7 @@ Global Settings allows a user to control default parameter values when creating 
 
 1. From the Configuration menu, click **Global Settings**. The available options will be accessible via tab controls and include RDP Global Settings and SSH Global Settings.
 
-![global-config](C:\Thycotic.ConnectionManager.Docs\how-to\images\global-config.png)
+![global-config](images/global-config.png)
 
 - These default options may be overridden within the individual connections.
 - Connections from Secret Server do not support all available parameters. In such cases the default parameters will be substituted.

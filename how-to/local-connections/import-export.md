@@ -6,7 +6,7 @@ Import/Export allows users to export all Local connections. When a folder is sel
 
 The contents of any Export or Import file need to be in JSON format. The following is an example of the formatting:
 
-![json-file-form](C:\Thycotic.ConnectionManager.Docs\how-to\images\json-file-form.png)
+![json-file-form](images/json-file-form.png)
 
 **Note**: The red text for the password field indicates that this part of the JSON file will only be included if the Export Password(s) option is used.  
 
@@ -17,7 +17,7 @@ The Import option is only available for Local connections and can only be access
 1. From the Connection manager navigation tree, select **the Local Connection folder** to which the contents should be imported. 
 2. Right-click and select **Import**. A file browser window will open. 
 
-![imp-json-file](C:\Thycotic.ConnectionManager.Docs\how-to\images\imp-json-file.png)
+![imp-json-file](images/imp-json-file.png)
 
 3. Navigate to the location of the JSON file containing the content for import. Select and click **Open**.
 
@@ -31,7 +31,7 @@ To initiate an **export,** perform the following:
 
 3. Click **Browse** and enter **the location and file name** for export.
 
-![exp-file](C:\Thycotic.ConnectionManager.Docs\how-to\images\exp-file.png)
+![exp-file](images/exp-file.png)
 
 **Note**: If Export Password(s) is selected, passwords for the connections will be exported in **clear text**.
 

@@ -5,7 +5,7 @@ Existing connections to Secret Server can be modified. Most fields can be modifi
 1. From the **Configuration** menu, select **Secret Server Connections**. The **Secret Server Connections** window will open.  
 2. Click **Edit** text next to the Secret Server connection to be modified. (The Edit text will be between the Connection name and the URL value.) The connection dialog box will open.
 
-![mod-conn](C:\Thycotic.ConnectionManager.Docs\how-to\images\mod-conn.png)
+![mod-conn](images/mod-conn.png)
 
 **Note**: Users can make modifications to any of the fields here except for the Secret Server URL. If the Remember me option was selected previously, the user will not be able to change the Username value either. 
 

@@ -6,6 +6,6 @@ When a folder is removed, the folder, and its contents (Local connections and ot
 
 2. Right-click the **folder name** and select **Delete**. A confirmation window will open.  
 
-![del-fol](C:\Thycotic.ConnectionManager.Docs\how-to\images\del-fol.png)
+![del-fol](images/del-fol.png)
 
 3. Select **Yes** to continue  
