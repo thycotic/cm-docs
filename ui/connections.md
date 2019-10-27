@@ -1,3 +1,3 @@
 # Connections
 
-![ss-connections-screen](\images\ss-connections-screen.png)
+![ss-connections-screen](images\ss-connections-screen.png)

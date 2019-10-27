@@ -13,19 +13,19 @@ Sessions launched from a Secret Server Secret may have workflows associated with
 
 For Secrets where multiple launchers are available, you will be prompted to select one.  
 
-![select-launcher](\images\select-launcher.png)
+![select-launcher](images\select-launcher.png)
 
 ## Select a Host/Machine ID
 
 For Secrets where a host is not specified, you will be prompted to enter one.  
 
-![select-host](\images\select-host.png)
+![select-host](images\select-host.png)
 
 ## Enter User Credentials
 
 For Connections/Secrets without an embedded username/password (or password), a dialog box will open (based on launcher type) to enter credentials.  
 
-![enter-user-creds](\images\enter-user-creds.png)
+![enter-user-creds](images\enter-user-creds.png)
 
 ## Secrets with Workflows
 

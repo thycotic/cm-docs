@@ -13,7 +13,7 @@
 - **Two Factor** – Select the appropriate two-factor authentication option for your environment.
 - **Remember me** – Select this check box if you want Connection Manager to remember the credentials you entered. This option stores the credentials in local storage and encrypts them using your application password. 
 
-![connect-ss-step1](\images\connect-ss-step1.png)
+![connect-ss-step1](images\connect-ss-step1.png)
 
 **Note:** Even if selecting this option, the user will still need to authenticate back to Secret Server when the application launches or times out. 
 
@@ -22,7 +22,7 @@
 5. In Step 2, the system will automatically fetch a list of Secret templates from the Secret Server URL entered in Step 1. The most common templates for RDP and SSH sessions will be selected for you by default. You may select and deselect additional templates as desired. You may also search for a specific template by name. 
 
 
-![connect-ss-step2](\images\connect-ss-step2.png)
+![connect-ss-step2](images\connect-ss-step2.png)
 
 6. Click **Finish** once all desired templates have been selected.
 

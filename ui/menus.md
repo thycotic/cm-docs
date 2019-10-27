@@ -4,12 +4,12 @@ There are several menu types available in the user interface: an overall menu av
 
 ## Hamburger Menu
 
-![hamburger-menu](\images\hamburger-menu.png)
+![hamburger-menu](images\hamburger-menu.png)
 
 ## Right-click Navigation Menu
 
-![right-click-nav-manu](\images\right-click-nav-manu.png)
+![right-click-nav-manu](images\right-click-nav-manu.png)
 
 ## Work Area Menu
 
-![work-area-menu](\images\work-area-menu.png)
+![work-area-menu](images\work-area-menu.png)

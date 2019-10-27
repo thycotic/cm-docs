@@ -2,7 +2,7 @@
 
 Connection Manager uses folders to help organize your local connections.  
 
-![create-folder](\images\create-folder.png)
+![create-folder](images\create-folder.png)
 
 1. Navigate to the **location where a new folder should be created**. 
 

@@ -7,5 +7,5 @@ A user may remove a connection.
 2. Click the **Remove** text to the far right of the Secret Server connection to be removed. 
 3. Click **Close** when finished.
 
-![delete-conn-remote-sys](\images\delete-conn-remote-sys.png)
+![delete-conn-remote-sys](images\delete-conn-remote-sys.png)
 
