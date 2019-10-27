@@ -4,7 +4,7 @@
 
 2. From the Folder properties area, click the **Edit** option. 
 
-![edit-fol](/edit-folder.png)
+![edit-folder](\images\edit-folder.png)
 
 3. From the Edit options, make any desired change to the folder, and click **Save**.
 

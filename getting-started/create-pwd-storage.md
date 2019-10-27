@@ -10,7 +10,7 @@ When Connection Manager is launched for the first time, or if no file storage is
 
 When starting the application after entering the local password, the following window appears. 
 
-![CreateStorforConnections](/create-storage-for-conns.png)
+![CreateStorforConnections](images/create-storage-for-conns.png)
 
 1. Enter the **password** to start the application.
 
