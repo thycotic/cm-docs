@@ -1,3 +1,6 @@
+[title]: #	"Import/Export"
+[tags]: #	"import,export,fileformat,files,local"
+[priority]: #	"406"
 # Import/Export
 
 Import/Export allows users to export all Local connections. When a folder is selected, the contents of that folder along with any subfolders (and their contents) will be included in the export file.
@@ -17,7 +20,7 @@ The Import option is only available for Local connections and can only be access
 1. From the Connection manager navigation tree, select **the Local Connection folder** to which the contents should be imported. 
 2. Right-click and select **Import**. A file browser window will open. 
 
-![select-json-file](images\select-json-file.png)
+![select-json-file](images/select-json-file.png)
 
 3. Navigate to the location of the JSON file containing the content for import. Select and click **Open**.
 
@@ -30,7 +33,7 @@ To initiate an **export,** perform the following:
 2. Right-click and select **Export**. The **Select file to export** window will open. 
 3. Click **Browse** and enter **the location and file name** for export.
 
-![select-file-exp](images\select-file-exp.png)
+![select-file-exp](images/select-file-exp.png)
 
 **Note**: If Export Password(s) is selected, passwords for the connections will be exported in **clear text**.
 

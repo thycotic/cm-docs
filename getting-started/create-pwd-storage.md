@@ -1,8 +1,8 @@
-# Getting Started
+[title]: # "Create Password and Storage"
+[tags]: # "createpassword,storage,ssstorage"
+[priority]: # "101"
 
-Connection Manager creates a local encrypted file storage for saving local connections and Secure Server(s) connectivity information. 
-
-## Create Password and Storage
+# Create Password and Storage
 
 When Connection Manager is launched for the first time, or if no file storage is detected, you must create a secure password for this vault.
 

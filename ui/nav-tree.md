@@ -1,3 +1,6 @@
+[title]: #	"Navigation Tree"
+[tags]: #	"navtree,ui"
+[priority]: #	"306"
 # Navigation Tree
 
 **Active Sessions** – select to view all active sessions.
@@ -8,4 +11,4 @@
 
 **Configuration** – clicking in this area will bring up a sub-menu with configuration options such as connected Secret Server(s) and default connection parameters.
 
-![left-nav-menu](images\left-nav-menu.png)
+![left-nav-menu](images/left-nav-menu.png)

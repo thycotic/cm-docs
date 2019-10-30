@@ -1,3 +1,6 @@
+[title]: #	"Licenses"
+[tags]: #	"faq,license,trial,key,ss"
+[priority]: #	"603"
 # Licenses
 
 **Question**: Does a current customer drop in the platinum trial license key into their current SS instance to receive the connection manager feature?

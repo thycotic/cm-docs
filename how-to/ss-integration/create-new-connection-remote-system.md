@@ -1,3 +1,7 @@
+[title]: #	"Create a New Connection to Remote Systems"
+[tags]: #	"create,connect,connectiontype,rdp,ssh"
+[priority]: #	"501"
+
 # Create a New Connection to Remote Systems
 
 Connection Manager allows users to create new connections to remote systems and store them locally. Secret Server Secrets may only be viewed and initiated within Connection Manager.
@@ -7,13 +11,13 @@ All required fields and the appropriate optional fields must be filled out. If y
 1. From the Local connections section of the navigation tree, navigate to **the folder where the new connection will be created**. 
 2. Right-click the **folder name** and select **New Connection** followed by the **connection type** (RDP or SSH).
 
-![create-new-loc-conn](images\create-new-loc-conn.png)
+![create-new-loc-conn](images/create-new-loc-conn.png)
 
 3. Dependent upon the connection type (RDP or SSH), a dialogue box will open. The options will vary based on the type of connection selected.   
 
-![edit-rdp-conn](images\edit-rdp-conn.png)
+![edit-rdp-conn](images/edit-rdp-conn.png)
 
-![edit-ssh-conn](images\edit-ssh-conn.png)
+![edit-ssh-conn](images/edit-ssh-conn.png)
 
 Note**: The defaults value setting may be modified under the Configuration option.
 
@@ -23,4 +27,4 @@ When the application starts, any configured Secret Server connection will be dis
 
 To re-authenticate the Secret Server connection, double-click **the closed-lock icon** in the navigation tree, or right-click and select **Connect**.
 
-![locked-connection](images\locked-connection.png)
+![locked-connection](images/locked-connection.png)

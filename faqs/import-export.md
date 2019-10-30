@@ -1,3 +1,6 @@
+[title]: #	"Import/Export"
+[tags]: #	"import,faq,export,encryption,integrity"
+[priority]: #	"602"
 # Import/Export
 
 - Import is only available in navigation panel 

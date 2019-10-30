@@ -1,4 +1,7 @@
-## Prerequisites
+[title]: #	"Prerequisites"
+[tags]: #	"requirements"
+[priority]: #	"2"
+# Prerequisites
 
 Connection Manager is a client-side application that can be installed on either Windows or Apple OSX operating systems. 
 

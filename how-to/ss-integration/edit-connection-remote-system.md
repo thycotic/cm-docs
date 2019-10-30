@@ -1,8 +1,11 @@
+[title]: #	"Edit a Connection to Remote Systems"
+[tags]: #	"edit,remote,cm"
+[priority]: #	"502"
 # Edit a Connection to Remote Systems
 
 1. Navigate to the **connection to be edited** and click the **connection name**.   
 
-![edit-conn-to-remsys](/images/edit-conn-remote-sys.png)
+![edit-conn-to-remsys](images/edit-conn-remote-sys.png)
 
 2. From the Connection properties area, click the **Edit button** under connection name. An Edit dialog will open depending on the connection type.
 
