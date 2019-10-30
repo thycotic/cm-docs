@@ -1,4 +1,7 @@
-# Connection Manager 1.0 Release Notes
+[title]: #	"Connection Manager 1.0.0 Release Notes"
+[tags]: #	"releasenotes,1.0.0,newfeatures"
+[priority]: #	"700"
+# Connection Manager 1.0.0 Release Notes
 
 1.0.0 Release Notes
 
