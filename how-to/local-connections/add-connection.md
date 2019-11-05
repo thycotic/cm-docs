@@ -1,12 +1,12 @@
-[title]: #	"Add a Connection"
-[tags]: #	"connect,ss,secretserver"
-[priority]: #	"402"
+[title]: #	(Add a Connection)
+[tags]: #	(connect,ss,secretserver)
+[priority]: #	(402)
 
 # Add a Connection
 
 1. From the Configuration menu, select **Secret Server Connections**.
 2. Select **Add a Connection**. The Secret Server connection wizard appears. 
-3. In Step 1, fill out the required* fields including:
+3. In Step 1, fill out the required fields including:
 
 - **Secret Server Name** – A friendly name for the connection.
 - **Secret Server URL** – The URL for the Secret Server instance. E.g.

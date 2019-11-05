@@ -1,6 +1,6 @@
-[title]: #	"Work Area"
-[tags]: #	"ui,cm"
-[priority]: #	"308"
+[title]: #	(Work Area)
+[tags]: #	(ui,properties)
+[priority]: #	(308)
 # Work Area
 
 Except for the first tab, the work area consists mostly of tabs representing open connections. The first tab corresponds to one of the selected options in the navigation tree which includes Active Sessions, Recent Connections, or a folder-view of Local Connections/connected Secret Server. For the later, you may navigate through folders directly inside the Connection tab.  

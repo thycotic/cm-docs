@@ -1,6 +1,6 @@
-[title]: #	"Edit a Connection to Remote Systems"
-[tags]: #	"edit,remote,cm"
-[priority]: #	"502"
+[title]: #	(Edit a Connection to Remote Systems)
+[tags]: #	(edit,remote)
+[priority]: #	(502)
 # Edit a Connection to Remote Systems
 
 1. Navigate to the **connection to be edited** and click the **connection name**.   

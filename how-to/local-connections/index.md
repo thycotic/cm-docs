@@ -1,6 +1,6 @@
-[title]: #	"Local Connections: How-To"
-[tags]: #	"howto,rdp,ssh,local"
-[priority]: #	"400"
+[title]: #	(Local Connections: How-To)
+[tags]: #	(howto,rdp,ssh,local,connect)
+[priority]: #	(400)
 
 # Local Connections: How-To
 

@@ -1,6 +1,6 @@
-[title]: #	"Edit a Folder"
-[tags]: #	"edit,folders"
-[priority]: #	"405"
+[title]: #	(Edit a Folder)
+[tags]: #	(edit,folders)
+[priority]: #	(405)
 # Edit a Folder
 
 1. Navigate to the **folder to be edited** and select it in the main window. 

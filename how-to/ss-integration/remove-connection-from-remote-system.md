@@ -1,6 +1,6 @@
-[title]: #	"Remove a Connection from Remote Systems"
-[tags]: #	"remote,connect,delete"
-[priority]: #	"504"
+[title]: #	(Remove a Connection from Remote Systems)
+[tags]: #	(remote,connect,delete)
+[priority]: #	(504)
 
 # Remove a Connection from Remote Systems
 

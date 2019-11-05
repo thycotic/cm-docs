@@ -1,6 +1,6 @@
-[title]: #	"Create a New Folder"
-[tags]: #	"create,folders"
-[priority]: #	"403"
+[title]: #	(Create a New Folder)
+[tags]: #	(create,folders)
+[priority]: #	(403)
 # Create a New Folder
 
 Connection Manager uses folders to help organize your local connections.  

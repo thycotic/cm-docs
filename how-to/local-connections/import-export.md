@@ -1,6 +1,6 @@
-[title]: #	"Import/Export"
-[tags]: #	"import,export,fileformat,files,local"
-[priority]: #	"406"
+[title]: #	(Import/Export)
+[tags]: #	(import,export,fileformat,files,local)
+[priority]: #	(406)
 # Import/Export
 
 Import/Export allows users to export all Local connections. When a folder is selected, the contents of that folder along with any subfolders (and their contents) will be included in the export file.

@@ -1,6 +1,6 @@
-[title]: #	"Navigation Tree"
-[tags]: #	"navtree,ui"
-[priority]: #	"306"
+[title]: #	(Navigation Tree)
+[tags]: #	(navtree,ui,navigation)
+[priority]: #	(306)
 # Navigation Tree
 
 **Active Sessions** – select to view all active sessions.
