@@ -1,6 +1,6 @@
-[title]: #	"Global Settings"
-[tags]: #	"global,configuration,config,cm"
-[priority]: #	"401"
+[title]: #	(Global Settings)
+[tags]: #	(global,configuration,ssh,rdp,config,settings)
+[priority]: #	(401)
 # Global Settings
 
 Global Settings allows a user to control default parameter values when creating Local connections. To access: 

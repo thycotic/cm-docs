@@ -1,6 +1,6 @@
-[title]: #	"Windows Install"
-[tags]: #	"install,windows,setup"
-[priority]: #	"102"
+[title]: #	(Windows Install)
+[tags]: #	(install,windows,setup)
+[priority]: #	(102)
 # Windows Install
 
 Download the Windows Installer File (MSI) for Connection Manager from here: https://downloads.cm.thycotic.com/Thycotic.ConnectionManager.WindowsInstaller.msi.

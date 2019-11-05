@@ -1,6 +1,6 @@
-[title]: #	"Host Names"
-[tags]: #	"faq,hostnames,conventions"
-[priority]: #	"601"
+[title]: #	(Host Names)
+[tags]: #	(faq,hostnames,conventions)
+[priority]: #	(601)
 # Host Names
 
 - We try to follow:

@@ -1,6 +1,6 @@
-[title]: # "Get Support"
-[tags]: # "cmsupport,getsupport,openaticket,help,"
-[priority]: # "203"
+[title]: # (Get Support)
+[tags]: # (cmsupport,getsupport,ticket,openaticket,help)
+[priority]: # (203)
 
 # Get Support
 

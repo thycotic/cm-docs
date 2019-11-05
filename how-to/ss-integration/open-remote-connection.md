@@ -1,6 +1,6 @@
-[title]: #	"Open a Remote Connection"
-[tags]: #	"open,connect,launcher,host,secrets,usercredentials,machineid"
-[priority]: #	"503"
+[title]: #	(Open a Remote Connection)
+[tags]: #	(open,connect,launcher,host,secrets,usercredentials,machineid)
+[priority]: #	(503)
 # Open a Remote Connection
 
 The process of connecting to a Local connection or to a Secret from Secret Server is essentially the same. 

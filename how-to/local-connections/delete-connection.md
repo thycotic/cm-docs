@@ -1,6 +1,6 @@
-[title]: #	"Delete a Connection"
-[tags]: #	"delete,ss,remove"
-[priority]: #	"404"
+[title]: #	(Delete a Connection)
+[tags]: #	(delete,ss,remove)
+[priority]: #	(404)
 # Delete a Connection
 
 A user may remove a connection.

@@ -1,6 +1,6 @@
-[title]: #	"Modify a Connection"
-[tags]: #	"modify,connect,config"
-[priority]: #	"407"
+[title]: #	(Modify a Connection)
+[tags]: #	(modify,connect,config)
+[priority]: #	(407)
 # Modify a Connection
 
 Existing connections to Secret Server can be modified. Most fields can be modified except for the **Secret Server URL** field.

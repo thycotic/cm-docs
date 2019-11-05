@@ -1,6 +1,6 @@
-[title]: #	"Create a New Connection to Remote Systems"
-[tags]: #	"create,connect,connectiontype,rdp,ssh"
-[priority]: #	"501"
+[title]: #	(Create a New Connection to Remote Systems)
+[tags]: #	(create,connect,connectiontype,rdp,ssh)
+[priority]: #	(501)
 
 # Create a New Connection to Remote Systems
 
