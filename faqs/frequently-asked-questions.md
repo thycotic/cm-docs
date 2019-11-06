@@ -5,14 +5,14 @@
 
 As Connection Manager is used more often by our internal teams, the FAQ will be updated with relevant content.
 
-[FAQ: General](general-faq)
+[FAQ: General](/general-faq)
 
-[FAQ: Host Names](host-names.md)
+[FAQ: Host Names](/host-names.md)
 
-[FAQ: Import/Export](import-export)
+[FAQ: Import/Export](/import-export)
 
-[FAQ: Licensing](licenses.md)
+[FAQ: Licensing](/licenses.md)
 
-[FAQ: Secret Server Requirements](ss-requirements.md)
+[FAQ: Secret Server Requirements](/ss-requirements.md)
 
-[FAQ: Workflows](workflows.md)
+[FAQ: Workflows](/workflows.md)
