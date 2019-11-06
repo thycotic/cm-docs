@@ -1,6 +1,6 @@
-[title]: #	"Release Notes"
-[tags]: #	"releasenotes,bugs,fixes"
-[priority]: #	"700"
+[title]: #	(Release Notes)
+[tags]: #	(releasenotes,bugs,fixes)
+[priority]: #	(700)
 
 # Release Notes 
 

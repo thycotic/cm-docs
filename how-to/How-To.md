@@ -1,6 +1,6 @@
-[title]: #	"How-To"
-[tags]: #	"howto"
-[priority]: #	"100"
+[title]: #	(How-To)
+[tags]: #	(howto)
+[priority]: #	(100)
 
 # How-To 
 
