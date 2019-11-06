@@ -1,6 +1,6 @@
-[title]: #	(Install Connection Manager)
-[tags]: #	(install,cm)
-[priority]: #	(100)
+[title]: #	"Install Connection Manager"
+[tags]: #	"install,cm"
+[priority]: #	"100"
 
 # Install Connection Manager 
 

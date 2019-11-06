@@ -1,6 +1,6 @@
-[title]: #	(Connection Manager 1.0.1 Release Notes)
-[tags]: #	(releasenotes,1.0.1,bugfix,cm)
-[priority]: #	(701)
+[title]: #	"Connection Manager 1.0.1 Release Notes"
+[tags]: #	"releasenotes,1.0.1,bugfix,cm"
+[priority]: #	"702"
 # Connection Manager 1.0.1 Release Notes
 
 This document includes the most recent version of the Connection Manager Release Notes. 

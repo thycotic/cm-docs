@@ -1,18 +1,16 @@
-[title]: #	(Licenses)
-[tags]: #	(faq,license,trial,key,ss)
-[priority]: #	(603)
-# Licenses
+[title]: #	"FAQ: Licenses"
+[tags]: #	"faq,license,trial,key,ss"
+[priority]: #	"604"
+# FAQ: Licenses
 
 **Question**: Does a current customer drop in the platinum trial license key into their current SS instance to receive the connection manager feature?
 
 **Answer**: Yes, if the platinum trial license was created recently.
 
- 
 
 **Question**: Does it matter if Connection Manager is working with a different SS instance than the one aligned to the trial key?
 
 **Answer**: If the SS instance has that internal flag set from a Platinum Trial, it should be fine.
-
 
 
 **Question**: Is it okay to add trial license to prod server? Will it overwrite or add to the current license?
