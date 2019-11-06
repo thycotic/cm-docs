@@ -1,4 +1,4 @@
-[title]: #	"FAQ: Host Names"
+[title]: #	"Host Names"
 [tags]: #	"faq,hostnames,conventions"
 [priority]: #	"602"
 # FAQ: Host Names

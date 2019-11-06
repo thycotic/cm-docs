@@ -1,4 +1,4 @@
-[title]: #	"FAQ: Licenses"
+[title]: #	"Licenses"
 [tags]: #	"faq,license,trial,key,ss"
 [priority]: #	"604"
 # FAQ: Licenses

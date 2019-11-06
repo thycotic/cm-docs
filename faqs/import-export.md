@@ -1,4 +1,4 @@
-[title]: #	"FAQ: Import/Export"
+[title]: #	"Import/Export"
 [tags]: #	"import,faq,export,encryption,integrity"
 [priority]: #	"603"
 # FAQ: Import/Export

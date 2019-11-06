@@ -1,4 +1,4 @@
-[title]: #	"FAQ: General"
+[title]: #	"General"
 [tags]: #	"faq,error,failed,ss,connect,data,datasheet,SAML,help,heartbeat"
 [priority]: #	"601"
 # FAQ: General
