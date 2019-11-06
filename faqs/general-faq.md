@@ -1,6 +1,6 @@
-[title]: #	"General"
-[tags]: #	"faq,error,failed,ss,connect,data,datasheet,SAML,help,heartbeat"
-[priority]: #	"601"
+[title]: #	(General)
+[tags]: #	(faq,error,failed,ss,connect,data,datasheet,SAML,help,heartbeat)
+[priority]: #	(601)
 # FAQ: General
 
 **Question**: Is there an associated Datasheet?

@@ -1,6 +1,6 @@
-[title]: #	"Secret Server Integration: How-To"
-[tags]: #	"integration,ss,create,integrate"
-[priority]: #	"500"
+[title]: #	(Secret Server Integration: How-To)
+[tags]: #	(integration,ss,create,integrate)
+[priority]: #	(500)
 # Secret Server Integration: How-To
 
 Connection Manager integrates with Secret Server  version 10.7 or later, and requires a valid Secret Server license.
