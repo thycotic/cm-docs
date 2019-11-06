@@ -1,7 +1,7 @@
-[title]: #	(Import/Export)
-[tags]: #	(import,faq,export,encryption,integrity)
-[priority]: #	(602)
-# Import/Export
+[title]: #	"FAQ: Import/Export"
+[tags]: #	"import,faq,export,encryption,integrity"
+[priority]: #	"603"
+# FAQ: Import/Export
 
 - Import is only available in navigation panel 
 - Encryption for CM login:

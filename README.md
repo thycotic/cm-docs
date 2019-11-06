@@ -1,11 +1,11 @@
-[title]: # (ReadMe - Connection Manager)
-[tags]: # (metadata info)
-[priority]: # (99999)
+[title]: # "ReadMe - Connection Manager"
+[tags]: # "metadata info"
+[priority]: # "99999"
 # Connection Manager Documentation
 
-## Thycotic.ConnectionManager.Docs (GitHub: thycotic/XXXXX-docs)
+## Thycotic.ConnectionManager.Docs 
 
-This repo is pulling together Connection Manager documentation and is structured as follows:
+This repository is pulling together Connection Manager documentation and is structured as follows:
 
 | Folder | SubFolder | File | Priority | Title/Topic |
 | ----- | ----- | ----- | ----- | ----- |

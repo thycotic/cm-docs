@@ -1,7 +1,7 @@
-[title]: #	(Frequently Asked Questions: General)
-[tags]: #	(faq,error,failed,ss,connect,data,datasheet,SAML,help,heartbeat)
-[priority]: #	(600)
-# Frequently Asked Questions: General
+[title]: #	"FAQ: General"
+[tags]: #	"faq,error,failed,ss,connect,data,datasheet,SAML,help,heartbeat"
+[priority]: #	"601"
+# FAQ: General
 
 **Question**: Is there an associated Datasheet?
 
