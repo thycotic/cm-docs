@@ -1,6 +1,6 @@
-[title]: #	"Workflows"
-[tags]: #	"workflow,faq,accessrequest"
-[priority]: #	"606"
+[title]: #	(Workflows)
+[tags]: #	(workflow,faq,accessrequest)
+[priority]: #	(606)
 # **FAQ: Workflows**
 
 - Access Request

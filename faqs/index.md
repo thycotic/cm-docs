@@ -1,6 +1,6 @@
-[title]: #	"Frequently Asked Questions"
-[tags]: #	"faqs"
-[priority]: #	"200"
+[title]: #	(Frequently Asked Questions)
+[tags]: #	(faqs)
+[priority]: #	(200)
 # Frequently Asked Questions
 
 As Connection Manager is used more often by our internal teams, the FAQ will be updated with relevant content.
