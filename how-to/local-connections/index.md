@@ -1,8 +1,8 @@
-[title]: #	(Local Connections: How-To)
+[title]: #	(Local Connections)
 [tags]: # (howto,rdp,ssh,local,connect)
 [priority]: #	(400)
 
-# Local Connections: How-To
+# Local Connections
 
 Manage and interact with multiple remote sessions for both Remote Desktop Protocol (RDP) and SSH in a unified environment. 
 
