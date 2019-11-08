@@ -1,7 +1,7 @@
 [title]: #	(Secret Server Requirements)
 [tags]: #	(faq,ss,apis,connection)
 [priority]: #	(605)
-# FAQ: Secret Server Requirements
+# Secret Server Requirements
 
 **Question**: What are the quick, hard requirements for connecting to Secret Server?
 

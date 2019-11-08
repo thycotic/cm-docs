@@ -1,7 +1,7 @@
 [title]: #	(Workflows)
 [tags]: #	(workflow,faq,accessrequest)
 [priority]: #	(606)
-# **FAQ: Workflows**
+# Workflows
 
 - Access Request
   - Does not display a dialog for specifying times for access request
