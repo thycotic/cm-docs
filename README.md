@@ -15,7 +15,7 @@ This repository is pulling together Connection Manager documentation and is stru
 | | | macosx-install.md | 101 | Install for MacOSX (coming soon) |
 | | | win-install.md | 102 | Install for Windows |
 | getting-started |                   | index.md | 200 | Getting Started Overview |
-| |  | create-pwd-storage.md                   | 201 | Setting up CM password and data storage |
+| |  | create-pwd.md                   | 201 | Setting up CM password and data storage |
 |  |                   | related-resources.md                    | 202      | Sources for workflows and supported characters               |
 |                 |                   | support.md                              | 203      | Open a support ticket                                        |
 | ui              |                   | index.md                                | 300      | User Interface Overview                                      |
