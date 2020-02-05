@@ -1,13 +1,15 @@
-[title]: #	(Getting Started)
-[tags]: #	(createpassword,resources,help,support)
-[priority]: #	(200)
+[title]: # (Getting Started)
+[tags]: # (createpassword,resources,help,support)
+[priority]: # (200)
+
 # Getting Started
 
 Connection Manager creates a local encrypted file storage for saving local connections and Secure Server(s) connectivity information.  
 
-[Create Password and Storage](create-pwd-storage.md)
+* [Create a Password](create-pwd.md)
 
-[Related Resources](related-resources.md)
+* [User Interface Components](UI-components/index.md)
 
-[Get Support](support.md)
+* [Related Resources](related-resources.md)
 
+* [Get Support](support.md)
