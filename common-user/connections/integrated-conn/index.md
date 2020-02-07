@@ -1,6 +1,6 @@
 [title]: # (Integrated Connection)
 [tags]: # (connection, integrated)
-[priority]: # (506)
+[priority]: # (507)
 
 # Create an Integrated Connection
 
