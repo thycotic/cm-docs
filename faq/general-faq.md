@@ -1,8 +1,8 @@
-[title]: # (FAQ General)
+[title]: # (General)
 [tags]: # (faq,error,failed,ss,connect,data,datasheet,SAML,help,heartbeat)
 [priority]: # (701)
 
-# FAQ General
+# General
 
 **Question**: Is there an associated Datasheet?
 

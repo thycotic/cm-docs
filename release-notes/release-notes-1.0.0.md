@@ -1,4 +1,4 @@
-[title]: # (Connection Manager 1.0.0 Release Notes)
+[title]: # (Connection Manager 1.0.0)
 [tags]: # (releasenotes,1.0.0,newfeatures)
 [priority]: # (801)
 

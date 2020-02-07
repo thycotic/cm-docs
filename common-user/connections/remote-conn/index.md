@@ -1,6 +1,6 @@
-[title]: # (Create a New Connection to Remote Systems)
+[title]: # (Connection to Remote Systems)
 [tags]: # (connection, remote)
-[priority]: # (503)
+[priority]: # (502)
 
 # Create a New Connection to Remote Systems
 

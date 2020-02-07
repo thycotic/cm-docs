@@ -1,8 +1,8 @@
-[title]: # (Import Connections)
-[tags]: # (import, connect, secret server)
+[title]: # (File Format)
+[tags]: # (file, format, secret server)
 [priority]: # (306)
 
-# File Format 
+# File Format
 
 The contents of any Export or Import file is in JSON format. The following is an example of the formatting:
 

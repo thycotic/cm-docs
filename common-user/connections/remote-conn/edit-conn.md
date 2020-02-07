@@ -1,6 +1,6 @@
 [title]: # (Edit Connection)
 [tags]: # (edit, connection)
-[priority]: # (504)
+[priority]: # (503)
 
 # Edit Connections to Remote Systems
 
