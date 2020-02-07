@@ -8,7 +8,7 @@ Connection Manager creates a local encrypted file storage for saving local conne
 
 * [Create a Password](create-pwd.md)
 
-* [User Interface Components](UI-components/index.md)
+* [User Interface Components](ui-components/index.md)
 
 * [Related Resources](related-resources.md)
 
