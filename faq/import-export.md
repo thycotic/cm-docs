@@ -2,8 +2,10 @@
 [tags]: # (import,faq,export,encryption,integrity)
 [priority]: # (703)
 
-#  Import/Export
+# Import/Export
 
-- Import is only available in navigation panel 
+- Import is only available in navigation panel
+
 - Encryption for CM login:
+
   - 256-bit encryption > AES 256. To check its integrity, we use HMAC + AES 25
