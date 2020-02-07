@@ -1,6 +1,7 @@
-[title]: #	(Secret Server Requirements)
-[tags]: #	(faq,ss,apis,connection)
-[priority]: #	(605)
+[title]: # (Secret Server Requirements)
+[tags]: # (faq,ss,apis,connection)
+[priority]: # (705)
+
 # Secret Server Requirements
 
 **Question**: What are the quick, hard requirements for connecting to Secret Server?
