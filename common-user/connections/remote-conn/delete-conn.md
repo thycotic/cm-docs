@@ -1,6 +1,6 @@
 [title]: # (Delete Connection)
 [tags]: # (delete, connection)
-[priority]: # (505)
+[priority]: # (504)
 
 # Delete Connections from Remote Systems
 

@@ -1,6 +1,6 @@
 [title]: # (Open Connection)
 [tags]: # (folder)
-[priority]: # (506)
+[priority]: # (505)
 
 # Open a Remote Connection
 

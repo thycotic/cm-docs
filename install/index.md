@@ -8,6 +8,6 @@ Connection Manager is a desktop client application that can be downloaded and in
 
 For details on the installation of Connection Manager, please follow the below procedures:
 
-[Windows Installation](win-install.md)
+* [Windows Installation](win-install.md)
 
-[MacOS Installation](macosx-install.md)
+* [MacOS Installation](macosx-install.md)
