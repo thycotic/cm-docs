@@ -1,9 +1,9 @@
 [title]: # (Connections)
 [tags]: # (connection)
 [priority]: # (502)
-
 # Connections
 
-* [Remote connections](../../common-user/connections/remote-conn/index.md)
+The following Connections related topics are available:
 
-* [Integrated connections](../../common-user/connections/integrated-conn/index.md)
+* [Remote connections](remote-conn/index.md)
+* [Integrated connections](integrated-conn/index.md)

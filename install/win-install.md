@@ -1,10 +1,9 @@
 [title]: # (Windows Installation)
 [tags]: # (install,windows,setup)
-[priority]: # (101)
-
+[priority]: # (110)
 # Windows Installation
 
-1. Download the **[Windows Installer File (MSI)](https://downloads.cm.thycotic.com/Thycotic.ConnectionManager.WindowsInstaller.msi)** for Connection Manager.
+1. Download the [Windows Installer File (MSI)](https://downloads.cm.thycotic.com/Thycotic.ConnectionManager.WindowsInstaller.msi) for Connection Manager.
 
 2. Double-click the MSI file to start the install process and click **Next** to continue.
 
