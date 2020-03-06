@@ -1,7 +1,6 @@
 [title]: # (Related Resources)
 [tags]: # (resources)
 [priority]: # (900)
-
 # Related Resources
 
 * [Secret Server Multi-Tier Secret Access Workflow ](https://thycotic.force.com/support/s/article/SS-HOW-EXT-Workflows)

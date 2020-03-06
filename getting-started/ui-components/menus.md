@@ -1,48 +1,42 @@
 [title]: # (Menus)
 [tags]: # (ui, menus)
 [priority]: # (207)
-
 # Menus
 
 There are several menu types available within the user interface:
 
 ## Stack Menu
 
-The menu ![](images/menus.png) at the top left of the application allows you to:
+The menu
 
-- Create new connections (RDP or SSH)
+![Menus](images/menus.png "Menus option")
 
-- Create new folders
+at the top left of the application allows you to select File and Help. Under File you can do the following:
 
-- Delete folders
+* Create new connections (RDP or SSH)
+* Create new folders
+* Delete folders
+* Delete connections
+* Exit the application
 
-- Delete connections
-
-- Exit the application
-
-**NOTE:** The Stack menu is context sensitive so the available, displayed options depend on what is currently selected in the navigation tree or the main work area.
+>**NOTE**: The Stack menu is context sensitive so the available, displayed options depend on what is currently selected in the navigation tree or the main work area.
 
 ## Right Click Navigation Menu
 
 Right clicking a folder allows you to:
 
-- Create new folders
-
-- Create new connections
-
-- Delete folders
-
-- Export and Import connections
-
-- Collapse and Expand Secret Server connections and Local connections
+* Create new folders
+* Create new connections
+* Delete folders
+* Export and Import connections
+* Collapse and Expand Secret Server connections and Local connections
 
 ## Work Area Menu
 
 Right clicking the work area allows you to:
 
-- Create new folders
-
-- Create new connections (RDP or SSH)
+* Create new folders
+* Create new connections (RDP or SSH)
 
 ## Search
 

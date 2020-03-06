@@ -1,10 +1,9 @@
 [title]: # (Support)
 [tags]: # (thycotic)
-[priority]: # (901)
-
+[priority]: # (100000)
 # Support
 
-Thycotic customers have access to support by phone and email. You also can open a case in Thycotic’s support ticketing system, which promotes follow-through to issue resolution.
+Thycotic customers have access to support by phone and email. You also can open a case in Thycotic's support ticketing system, which promotes follow-through to issue resolution.
 
 * Use the means you prefer, except for Severity 1 issues—for those, always use phone support.
 
