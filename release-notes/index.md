@@ -5,6 +5,9 @@
 
 The following Connection Manager release notes are available:
 
-
-* [1.0.1 - Release Notes](release-notes-1.0.1.md)
-* [1.0.0 - Initial Release](release-notes-1.0.0.md)
+* [1.2.0 - Release Notes](rn-1.2.0.md)
+* [1.1.2 - ReleaseNotes](rn-1.1.2.md)
+* [1.1.1 - Release Notes](rn-1.1.1.md)
+* [1.1.0 - Release Notes](rn-1.1.0.md)
+* [1.0.1 - Release Notes](rn-1.0.1.md)
+* [1.0.0 - Initial Release](rn-1.0.0.md)
