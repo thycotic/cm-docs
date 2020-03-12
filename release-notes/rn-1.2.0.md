@@ -7,4 +7,17 @@
 
 ## Enhancements
 
+* Added ability to login to Secret Server using the Secret Server web login (for SAML support).
+* Added ability to launch SS Secrets that use other Launcher types. Connection Manager will support any launcher that is supported by Secret Server and includes, but is not limited to: PowerShell, CmdLine, MS Word, Notepad, Excel. These launchers also support opening a Tab in Connection Manager, session recording and workflows.
+* Added the ability to launch a Secret in the SS UI and have the protocol handler open and run the launcher in Connection Manager. The Secret needs to be configured to use the Protocol handler, and then launching it will use Connection Manager if it's available. When CM opens it will be in a "Locked" state where only the SS launched session(s) are available.
+
+  * If CM is launched using the Protocol handler and is in the "Locked" state, users will have a "Sign In" option available to them to fully log into Connection Manager to use their other connections.
+* Added support for two new Secret Server settings. Changing these settings in Secret Server will globally enforce the changes for Connection Manager applications that are connected. The SS Settings are:
+
+  * Allow Local Connections – Allows or disables the saving of credentials for any Local Connections. By default, this is set to Yes.
+  * AllowSavingCredentials - Allows or disables the saving of credentials for any Secret Server connections. By default, this is set to Yes.
+
 ## Bug Fixes
+
+* Fixed an issue where if the SS URL contained "v1" in the path it was replaced with "v2".
+* Fixed an issue with Integrated connections (a local connection with a SS Secret for credentials) where a Local SSH connection was retuning an "incorrect username or password" message if the Secret uses SS Proxy.
