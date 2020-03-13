@@ -7,7 +7,7 @@ Connection Manager will only connect to Secret Server version 10.7 or later and 
 
 1. On the Configuration menu, select __Secret Server Connections__. 
 
-   If no Secret Server connections exist in Connection Manager, selecting the Secret Server Connections option opens to _Step 1: Connect to Secret Server_. If other Secret Server connections exist, the Secret Server Connections window opens instead.
+   If no Secret Server connections exist in Connection Manager, selecting the Secret Server Connections option opens _Step 1: Connect to Secret Server_. If other Secret Server connections exist, the Secret Server Connections window opens instead.
 
 1. On the __Secret Server Connections__ window select __Add a Connection__. The Secret Server connection wizard opens.
 
