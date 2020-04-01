@@ -17,12 +17,23 @@ The available options are accessible via tab controls and include RDP Global Set
 
 ## Globally Enforced Secret Server Settings
 
-The following settings can be configured in Secret Server (under __Admin | Connection Manager__) and will be applied globally for any Connection Manager application that is connected to it.
+The following settings can be configured in Secret Server and will be applied globally for any Connection Manager application that is connected to it.
 
-![settings](images/settings.png "Connection Manager Settings")
+To access this in Secret Server, 
+
+1. Navigate to __Admin | See All__.
+1. Select __Tools & Integrations__.
+
+   ![tools & integrations](images/admin-see-all.png "Select Connection Manager from the integration options")
+
+These options are by default enabled:
 
 * Allow Local Connections – Allows or disables saving credentials for any Local Connections. The default is Yes.
+
+  ![settings 2](images/admin-see-all-2.png "Enabled allow local connections")
 * Allow Saving Credentials - Allows or disables saving credentials for any Secret Server connections. The default is Yes.
+
+  ![settings 3](images/admin-see-all-3.png "Enabled allow saving credentials")
 
 If Connection Manager is connected to multiple Secret Server Instances, and those instances have different values for these new settings, then Connection Manager will always use the more secure option set for security purposes. For example, if Connection1 allows Local Connections, and Connection2 does not allow Local Connection, then Connection Manager will not allow Local connections at all.
 

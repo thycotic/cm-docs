@@ -13,7 +13,11 @@ The Secrets with launcher can be launched in the Secret Server UI and have the p
 
 If Connection Manager is launched using the protocol handler and is in the "Locked" state, users have a "Sign In" option available to fully log into Connection Manager to use their other connections.
 
-## Launching Without an Open Connection
+>**Note**: Local Connections are limited to RDP and SSH launchers.
+
+If session recording is configured to run only on the primary secret, only the primary session will be recorded. If the secret is configured to record multiple windows, Connection Manager honors the setting and all sessions started from the initial session are also recorded.
+
+## Launching from Secret Server without Connection Manager Open
 
 If a protocol handler is launched from Secret Server, without having an open Connection Manager, the __Open Thycotic Connection Manager?__ modal opens:
 
