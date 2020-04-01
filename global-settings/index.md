@@ -44,5 +44,3 @@ If "Allow Local Connections" is set to "off" and user imports local connection(s
 If you already have Local Connections saved, and the __Allow Local Connection__ option is disabled, then the next time the Secret Server instance is connected to the Connection Manager instance we will prompt the user that the Local Connections will be deleted. If they agree, then Secret Server connects and the local connections are deleted. If they say No, then we prevent Secret Server from connecting.
 
 The behavior is the same for saving credentials when setting the __Allow Saving Credentials__ flag.
-
-If the setting for __Allow Local Connectio__ is disabled. 
