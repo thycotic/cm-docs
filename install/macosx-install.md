@@ -5,7 +5,9 @@
 
 1. Download the DMG file from Thycotic's [Free Tools](https://thycotic.com/solutions/free-it-tools/connection-manager-free/) page.
 
-2. Select __Mac__ download. A DMG file will download to your system.
+2. Select __Mac__ download. A PKG file will download to your system.
+
+   >**Note**: The file extension is a .pkg starting with release 1.2.0.
 
 3. Navigate to the DMG file and double-click to open, or right-click and select __Open__. The install window opens.
 

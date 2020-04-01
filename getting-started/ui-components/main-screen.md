@@ -11,3 +11,5 @@ The main screen consists of two components:
 The two sections work in concert with each other.
 
 ![main](images/main-screen.png "The main Connection Manager page")
+
+The navigation area is hover-click resizable.

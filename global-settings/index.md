@@ -37,6 +37,12 @@ These options are by default enabled:
 
 If Connection Manager is connected to multiple Secret Server Instances, and those instances have different values for these new settings, then Connection Manager will always use the more secure option set for security purposes. For example, if Connection1 allows Local Connections, and Connection2 does not allow Local Connection, then Connection Manager will not allow Local connections at all.
 
-If you already have Local Connections saved, and the __Allow Local Connection__ option is set to No, then the next time the Secret Server instance is connected to the Connection Manager instance we will prompt the user to tell them the Local Connections will be deleted. If they agree, then Secret Server connects and the local connections are deleted. If they say No, then we prevent Secret Server from connecting
+If "Allow Local Connections" is set to "off" and user imports local connection(s), credentials are not imported but the local connections are created.
+
+![not saved](images/credentials-removed.png "Connections credentials are not saved and existing ones are deleted if Allow Local Connections is disabled")
+
+If you already have Local Connections saved, and the __Allow Local Connection__ option is disabled, then the next time the Secret Server instance is connected to the Connection Manager instance we will prompt the user that the Local Connections will be deleted. If they agree, then Secret Server connects and the local connections are deleted. If they say No, then we prevent Secret Server from connecting.
 
 The behavior is the same for saving credentials when setting the __Allow Saving Credentials__ flag.
+
+If the setting for __Allow Local Connectio__ is disabled. 
