@@ -12,6 +12,6 @@ Connection Manager supports a variety of Secret Server workflows associated with
 * Request Access
 * Double Lock
 
-Users will see a notification in the properties area of the secret and if a Secret has a workflow associated with it, Connection Manager will prompt you for the appropriate workflow options in the Properties pane.. Please see the [Secret Server Multi-Tier Secret Access Workflow](https://thycotic.force.com/support/s/article/SS-HOW-EXT-Workflows).
+Users will see a notification in the properties area of the secret and if a Secret has a workflow associated with it, Connection Manager will prompt you for the appropriate workflow options in the Properties pane. Please see the [Secret Server Multi-Tier Secret Access Workflow](https://docs.thycotic.com/ss/10.8.0/secret-workflow-templates/index.md).
 
 Once the workflow is successful, the connection is established.

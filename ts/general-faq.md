@@ -24,11 +24,7 @@ Not currently. <!-- An item has been added into the backlog for this and the tea
 
 A Connection Manager data file containing the list of connections is stored in `C:\Users\\AppData\Roaming\Thycotic\Connection Manager`. The file is stored using AES 256 (256-bit) encryption.
 
-## Is there support for SAML?
-
-Not currently. We use RESTAPIs to communicate and they do not currently support SAML.
-
-## Is there a way to push scripted code out to multiple SSH sessions at one time for updates or commands? 
+## Is there a way to push scripted code out to multiple SSH sessions at one time for updates or commands?
 
 Is there a way to send a scripted file out to multiple PuTTY sessions at once using commands?
 
