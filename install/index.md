@@ -1,4 +1,4 @@
-[title]: # (Installatiom)
+[title]: # (Installation)
 [tags]: # (install)
 [priority]: # (100)
 # Installation of Connection Manager
