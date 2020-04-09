@@ -8,8 +8,7 @@
 Yes, it's with Marketing. Please check with [Barbara Hoffman](mailto:mailtoBarbara.Hoffman@thycotic.com?subject=Connection Manager Datasheet) for a link.-->
 ## Is there a local session timeout for sessions within Connection Manager (CM)?
 
-Yes. 
-For Local Connections, the Windows default socket connect timeout applies (e.g. standard RDP/SSH remote session timeout). The session timeouts on secrets can be set in Secret Server (SS).
+Yes. - For Local Connections, the Windows default socket connect timeout applies (e.g. standard RDP/SSH remote session timeout). The session timeouts on secrets can be set in Secret Server (SS).
 
 ## I'm seeing a Connection failed error message while trying to connect to SS
 
@@ -18,7 +17,7 @@ Seeing this error upon connection to SS means the currently installed version of
 
 ## Is there a way to refresh the SS connections?
 
-Not currently. <!-- An item has been added into the backlog for this and the team plans to look at it soon. Backlog:https://thycotic.visualstudio.com/Thycotic.ConnectionManager/_workitems/edit/144561 -->
+Yes. - The Secret Server connection got a refresh button with the 1.2.0 version update.
 
 ## Where and how is the data for Connection Manager stored?
 

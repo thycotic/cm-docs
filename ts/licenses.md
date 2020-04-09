@@ -9,7 +9,7 @@ Yes, if the platinum trial license was created recently.
 
 ## Does it matter, if Connection Manager is working with a different Secret Server instance than the one aligned with the trial key?
 
-If the Secret Server instance has that internal flag set from a Platinum Trial, it should be fine.
+Connection Manager can connect to any Secret Server instance that is licensed with the Connection Manager Add-on license for Secret Server.
 
 ## Is it okay to add trial license to production server? Will it overwrite or add to the current license?
 
