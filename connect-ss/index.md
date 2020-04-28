@@ -5,7 +5,9 @@
 
 Connection Manager will only connect to Secret Server version 10.7 or later and requires a valid Secret Server license.
 
->**Note**: For Secret Server implementations using WinAuth, also refer to details in this article [Setting Up Integrated Windows Authentication in Secret Server](https://thycotic.force.com/support/s/article/Setting-Up-Integrated-Windows-Authentication-in-Secret-Server-10-0). Use the RestAPI to use the auth method instead of WinAuth. 
+>**Note**: For Secret Server implementations using WinAuth, also refer to details in this article [Setting Up Integrated Windows Authentication in Secret Server](https://thycotic.force.com/support/s/article/Setting-Up-Integrated-Windows-Authentication-in-Secret-Server-10-0). Use the RestAPI to use the auth method instead of WinAuth.
+
+>If you encounter an invocation error refer to [Invocation Error when Connecting to Secret Server](../ts/invocation-error-ss.md).
 
 ## Local Username/Password
 
