@@ -7,7 +7,7 @@ Connection Manager is a client-side application that can be installed on either 
 
 Minimum requirements for client-side installation:
 
-* Windows Installation: Windows 7 or later, 8GB RAM
+* Windows Installation: Windows 8 or later, 8GB RAM (please be aware that Windows 7 support ended January 14th 2020: https://docs.microsoft.com/en-us/deployoffice/windows-7-support). Thycotic recommends upgrading clients to Windows 10.
 
 * Macintosh Installation: OS X 10.13x (High Sierra) or later, 8GB RAM
 
