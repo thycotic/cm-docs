@@ -3,11 +3,11 @@
 [priority]: # (702)
 # Application Crash when Editing Existing Secret Server Connection
 
-This topic reviews an issue that can cause an application crash for the Connection Manager 1.2.1 versions, including what causes the issue and possible workarounds.
+This topic reviews an issue that can cause an application crash for the Connection Manager 1.2.1 release, including what causes the issue and possible workarounds.
 
 ## Issue
 
-In the Connection Manager 1.2.1 versions a condition can be reached that causes the Connection Manager application to crash. There is no specific error message associated with the crash, but it occurs when the following conditions are met:
+In the Connection Manager 1.2.1 release a condition can be reached that causes the Connection Manager application to crash. There is no specific error message associated with the crash, but it occurs when the following conditions are met:
 
 1. There is an existing connection to Secret Server.
 1. The existing connection uses an **Authentication Type** of “Local Username/Password” and has the **Two Factor** option set to anything other than “None”.
@@ -19,7 +19,7 @@ If the application crash occurs, the next time the user starts Connection Manage
 
 ## Reason
 
-In the Connection Manager 1.2.1 versions, if the **Authentication Type** is set to “Local Username/Password” and the **Two Factor** option is set to anything other than “None”, the value of the **Two Factor** option is saved within the application. The crash occurs when Connection Manager receives the SAML Login token from Secret Server, but it is expecting one of the Local Two Factor options instead (like the “Pin Code”), and as a result cannot process the token and the application crashes.
+In the Connection Manager 1.2.1 release, if the **Authentication Type** is set to “Local Username/Password” and the **Two Factor** option is set to anything other than “None”, the value of the **Two Factor** option is saved within the application. The crash occurs when Connection Manager receives the SAML Login token from Secret Server, but it is expecting one of the Local Two Factor options instead (like the “Pin Code”), and as a result cannot process the token and the application crashes.
 
 ## Workarounds
 

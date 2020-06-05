@@ -1,6 +1,6 @@
 [title]: # (Invocation Error on Connect)
 [tags]: # (secret server connection)
-[priority]: # (702)
+[priority]: # (704)
 # Invocation Error when Connecting to Secret Server
 
 This topic reviews an error that can be encountered in the Connection Manager 1.2.0 Release, including why the issue might be encountered, what causes it, and a solution to resolve it.
