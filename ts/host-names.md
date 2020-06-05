@@ -1,6 +1,6 @@
 [title]: # (Host Names)
 [tags]: # (faq,hostnames,conventions)
-[priority]: # (702)
+[priority]: # (703)
 # Host Names
 
 We follow these general naming conventions and constraints:

@@ -1,6 +1,6 @@
 [title]: # (Licenses)
 [tags]: # (faq,license,trial,key,ss)
-[priority]: # (704)
+[priority]: # (706)
 # Licenses
 
 ## Does a current customer drop in the platinum trial license key into their current Secret Server instance to receive the connection manager feature?
