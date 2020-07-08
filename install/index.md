@@ -10,3 +10,4 @@ For details on system requirements and the installation of Connection Manager, p
 * [System Requirements](sysreqs.md)
 * [Windows Installation](win-install.md)
 * [MacOS Installation](macosx-install.md)
+* [Command line Arguments to Create a Secret Server Connection on Install](cmdline.md)
