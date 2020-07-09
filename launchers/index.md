@@ -15,6 +15,8 @@ If Connection Manager is launched using the protocol handler and is in the "Lock
 
 >**Note**: Local Connections are limited to RDP and SSH launchers.
 
+## Switching to/from Full-Screen Mode
+
 When switching RDP sessions to or from full-screen mode, Connection Manager does not reconnect the RDP session. The RDP Proxy uses one time passwords and Connection Manager cannot reconnect without generating the new RDP proxy username/password and ConnectionManager does not re-create Secret Server sessions when switching between screen modes.
 
 ## Session Recording
