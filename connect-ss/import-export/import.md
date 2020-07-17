@@ -5,7 +5,7 @@
 
 Connection Manager allows the import of Connection Manager .JSON, CSV, and RDP files for local connections data. 
 
-This example if for CSV file imports.
+This example is for CSV file imports.
 
 1. Right-click on __Local Connections__.
 1. Select __Import__.
@@ -17,10 +17,10 @@ This example if for CSV file imports.
 
 The following example shows what to expect when importing local connections via CSV file into your Connection Manager instance.
 
-1. In the Step 1 of 2 of the Import process,
+1. In Step 1 of 2 of the Import process,
    1. select the file to import,
    1. specify the connection type, and
-   1. select with Delimiters are used in the import file, the default is comma separated.
+   1. select which Delimiters are used in the import file, the default is comma separated.
 
    ![import 2](images/import-2.png "Import dialog, step 1 of 2")
 1. Click __Next__.
@@ -32,7 +32,7 @@ The following example shows what to expect when importing local connections via 
 
    ![import 4](images/import-4.png "Import confirmation information")
 
-   Connections are imported as local and information about import errors is displayed.
+   Each connection in the file is imported as a Local Connection. Links to informational or error reports will be displayed, but only if the import encountered errors or if it automatically mapped fields during the import.
 1. To further examine which information failed to import, click __View more...__.
 
    ![import 5](images/import-5.png "CSV containing the connection data that failed to import")

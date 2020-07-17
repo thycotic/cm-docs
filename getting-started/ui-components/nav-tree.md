@@ -11,7 +11,7 @@ Select to view all active sessions.
 
 ## Favorites
 
-You can add favorite connections by hovering over an existing connection and selecting the star.
+You can add favorite connections by hovering over an existing connection and selecting the star. Favorites that are specified in Connection Manager will also be listed as favorites in Secret Server and vice versa.
 
 ## Recent
 
