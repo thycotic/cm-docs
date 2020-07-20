@@ -15,6 +15,12 @@ If Connection Manager is launched using the protocol handler and is in the "Lock
 
 >**Note**: Local Connections are limited to RDP and SSH launchers.
 
+## Switching to/from Full-Screen Mode
+
+When switching RDP sessions to or from full-screen mode, Connection Manager does not reconnect the RDP session. The RDP Proxy uses one time passwords and Connection Manager cannot reconnect without generating the new RDP proxy username/password and ConnectionManager does not re-create Secret Server sessions when switching between screen modes.
+
+## Session Recording
+
 If session recording is configured to run only on the primary secret, only the primary session will be recorded. If the secret is configured to record multiple windows, Connection Manager honors the setting and all sessions started from the initial session are also recorded.
 
 A typical example are Xming implementations of Secure Shell (SSH) to securely forward X11 sessions from other computers. While recording an Xming session, all windows created are recorded and if a user tries to use X11 forwarding for example in Chrome, the new Chrome window will be recorded too.

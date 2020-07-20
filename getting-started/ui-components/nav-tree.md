@@ -9,6 +9,10 @@ Select to view all active sessions.
 
 ![Active Sessions](images/active-sessions.png "Active Sessions page")
 
+## Favorites
+
+You can add favorite connections by hovering over an existing connection and selecting the star. Favorites that are specified in Connection Manager will also be listed as favorites in Secret Server and vice versa.
+
 ## Recent
 
 Select to view or launch recently active sessions or to create a new Secret Server connection.

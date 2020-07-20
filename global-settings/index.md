@@ -9,11 +9,17 @@ Global Settings allows a user to control default parameter values when creating 
 
    ![Global Configurations](images/global-1.png "Global Configurations page")
 
-The available options are accessible via tab controls and include RDP Global Settings and SSH Global Settings:
+The available options are accessible via tab controls and include
 
-* These default options may be overridden within the individual connections.
-* Connections from Secret Server do not support all available parameters. In such cases the default parameters will be substituted.
-* Any of the default configuration values that are specified in a Secret, from a Secret Server connection, will use the values from the Secret instead of the Global Configurations.
+* __RDP Global Settings__ - allows to specify default desktop size settings, etc.
+* __SSH Global Settings__ - allows to specify the default font, etc.
+* __Launcher Settings__ - allows administrators to switch protocol handlers.
+
+All default options may be overridden within the individual connections. Connections from Secret Server do not support all available parameters. In such cases the default parameters will be substituted.
+
+Any of the default configuration values that are specified in a Secret, from a Secret Server connection, will use the values from the Secret instead of the Global Configurations.
+
+When accessing the Launcher Settings tab, Connection Manager checks for the legacy protocol handler. To make any changes the user needs to be an administrator. Connection Manager detects the file type version appropriately.
 
 ## Globally Enforced Secret Server Settings
 
