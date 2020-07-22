@@ -3,6 +3,8 @@
 [priority]: # (110)
 # Windows Installation
 
+>**Note**: On Windows systems when you are upgrading to Connection Manager 1.3.0 only, do not follow the in product update option. Instead uninstall your current version of Connection Manager (make sure to backup/export your local connections first), then install the new 1.3.0 version of Connection Manager. This is only a one-time issue when upgrading from previous Connection Manager versions to the release 1.3.0 version.
+
 1. Download the [Windows Installer File (MSI)](https://downloads.cm.thycotic.com/Thycotic.ConnectionManager.WindowsInstaller.msi) for Connection Manager.
 1. Double-click the MSI file to start the install process.
 
