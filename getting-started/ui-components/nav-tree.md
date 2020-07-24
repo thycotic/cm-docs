@@ -13,6 +13,14 @@ Select to view all active sessions.
 
 You can add favorite connections by hovering over an existing connection and selecting the star. Favorites that are specified in Connection Manager will also be listed as favorites in Secret Server and vice versa.
 
+Favorites page showing only local connection favorites:
+
+![Favorites](images/favs.png "Favorites page showing only local connection favorites")
+
+Favorites page showing local and Secret Server connection favorites:
+
+![Favorites Secret Server](images/favs-2.png "Favorites page showing local and Secret Server connection favorites")
+
 ## Recent
 
 Select to view or launch recently active sessions or to create a new Secret Server connection.

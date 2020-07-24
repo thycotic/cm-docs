@@ -3,7 +3,7 @@
 [priority]: # (501)
 # Import of CSV Files
 
-Connection Manager allows the import of Connection Manager .JSON, CSV, and RDP files for local connections data. 
+Connection Manager allows the import of Connection Manager .JSON, CSV, and RDP files for local connections data.
 
 This example is for CSV file imports.
 
@@ -43,3 +43,16 @@ The following example shows what to expect when importing local connections via 
 Example of Step 2 of 2 modal showing errors:
 
 ![errors](images/errors.png "Errors listed on import modal")
+
+## Import Completed Reports
+
+Imports and trigger none, one, or up to two reports.
+
+![import 6](images/import-6.png "Import confirmation information with successfully and not imported objects.")
+
+* Successful: This report lists all objects that have been successfully imported.
+* Not imported: This report lists all objects that failed to import. The report can be used to remediate the import issue(s) and the remaining connections can be reimported.
+
+## CSV Import Differences
+
+If you are working with Devolutions type connection .csv files, do not use the standard .csv import option. Devolutions .csv files require a different mapping scheme than standard .csv.
