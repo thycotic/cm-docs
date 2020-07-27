@@ -5,6 +5,8 @@
 
 *Release Date: 2020-07-28*
 
+**Note**: The macOS Installer for Connection Manager 1.3.0 will be released next week.
+
 ## Enhancements
 
 * Ability to import connections from third party platforms in CSV format.
