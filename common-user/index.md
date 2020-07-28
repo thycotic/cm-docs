@@ -9,3 +9,4 @@ Since there are many variations and configuration options for remote connectivit
 * [Connection to Remote Systems](connections/remote-conn/index.md)
 * [Integrated Connections](connections/integrated-conn/index.md)
 * [Re-authenticate to Secret Server](connections/reauth.md)
+* [Log File Location](log-files.md)

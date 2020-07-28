@@ -10,7 +10,7 @@ This section provides helpful troubleshooting tips and answer to frequently aske
 * [AVBlock Error with Session Recording](avblock-error.md)
 * [Host Names](host-names.md)
 * [Invocation Error on Connect](invocation-error-ss.md)
-* [Import/Export](import-export.md)
+* [Encryption](encryption.md)
 * [Licensing](licenses.md)
 * [Related Resources](related-res.md)
 <!-- * [Workflows](workflows.md) -->

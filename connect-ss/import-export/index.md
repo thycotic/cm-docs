@@ -6,4 +6,5 @@
 The following topics are available:
 
 * [Export Connections](export-conn.md)
-* [Import Connections](import-conn.md)
+* [JSON based Import of Connections](import-conn.md)
+* [CSV based Import of Local Connections](import.md)
