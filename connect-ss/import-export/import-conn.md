@@ -1,7 +1,7 @@
-[title]: # (Import Connections)
+[title]: # (JSON Import)
 [tags]: # (import, connect, secret server)
 [priority]: # (305)
-# Import Connections
+# Import of JSON Files
 
 The Import option is only available for Local connections and can only be accessed from the Navigation tree.
 

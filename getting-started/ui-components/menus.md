@@ -7,19 +7,30 @@ There are several menu types available within the user interface:
 
 ## Stack Menu
 
-The menu
+The menu at the top left of the application allows you to select File and Help.
 
 ![Menus](images/menus.png "Menus option")
 
-at the top left of the application allows you to select File and Help. Under File you can do the following:
+### File
+
+Under File you can do the following:
 
 * Create new connections (RDP or SSH)
 * Create new folders
-* Delete folders
-* Delete connections
+* Delete folders/connections
 * Exit the application
 
+![file](images/file.png "File menu")
+
 >**NOTE**: The Stack menu is context sensitive so the available, displayed options depend on what is currently selected in the navigation tree or the main work area.
+
+### Help
+
+Under Help you can select User Guide and About:
+
+![help](images/help.png "Help menu")
+
+![about](images/about.png "About modal")
 
 ## Right Click Navigation Menu
 
