@@ -55,4 +55,4 @@ Imports and trigger none, one, or up to two reports.
 
 ## CSV Import Differences
 
-If you are working with Devolutions type connection .csv files, do not use the standard .csv import option. Devolutions .csv files require a different mapping scheme than standard .csv.
+If you are working with Devolutions type connection .csv files, do not use the standard .csv import option. Devolutions .csv files require a different mapping scheme than standard .csv. Connection Manager only imports RDP/SSH connections from Devolutions. Imports of "Folders","Workstation", or "Domain" data returns a "Import failed. Invalid file format" message.
