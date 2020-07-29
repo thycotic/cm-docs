@@ -5,6 +5,8 @@
 
 *Release Date: 2020-07-28*
 
+>**Note**: The macOS installer will be made available as a 1.3.1 installer in the next couple of days.
+
 ## Enhancements
 
 * Ability to import connections from third party platforms in CSV format.
