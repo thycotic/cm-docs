@@ -5,7 +5,9 @@
 
 *Release Date: 2020-07-28*
 
-**Note**: The macOS Installer for Connection Manager 1.3.0 will be released next week.
+>**Note**: Installer versions:
+> * Windows: 1.3.0
+> * macOS: 1.3.1
 
 ## Enhancements
 
@@ -33,6 +35,7 @@
 
 ## Bugs
 
-* The size of the file download dialog is not correct (too small) when updating the application.
-* Resolve CefSharp (CVE-2020-6418) vulnerability in web browser for Secret Server login.
-* Fixing issue for launching Secrets that connect using RPD proxy.
+* Fixed an issue that prevented Connection Manager from fully launching a session using the protocol handler on macOS.
+* Fixed the size of the file download dialog not being correct (too small) when updating the application.
+* Resolved CefSharp (CVE-2020-6418) vulnerability in web browser for Secret Server login.
+* Fixed an issue for launching Secrets that connect using RPD proxy.
