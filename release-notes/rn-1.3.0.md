@@ -33,7 +33,7 @@
 * Setting in CM to switch between using CM as SS protocol handler or SS as the protocol handler.
 * Connection Manager build package will ship with Secret Server (to act as the SS Mac protocol handler).
 
-## Bugs
+## Bug Fixes
 
 * Fixed an issue that prevented Connection Manager from fully launching a session using the protocol handler on macOS.
 * Fixed the size of the file download dialog not being correct (too small) when updating the application.
