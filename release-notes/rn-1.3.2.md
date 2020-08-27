@@ -1,13 +1,9 @@
-[title]: # (1.3.1 Release)
+[title]: # (1.3.2 Release)
 [tags]: # (release notes)
 [priority]: # (891)
-# 1.3.1 Release Notes
+# 1.3.2 Release Notes
 
 *Release Date: 2020-08-11*
-
->**Note**: Installer versions:
-> * Windows: 1.3.1
-> * macOS: 1.3.2
 
 ## Bug Fixes
 

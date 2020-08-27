@@ -7,7 +7,7 @@ This topic provides a chronological list of documentation changes, to help track
 
 ## August 2020:
 
-* 1.3.1 Hotfix release updates, refer to [Release Notes](rn-1.3.1.md) for details.
+* 1.3.2 Hotfix release updates, refer to [Release Notes](rn-1.3.2.md) for details.
 
 ## July 2020:
 
