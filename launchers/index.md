@@ -17,7 +17,7 @@ If Connection Manager is launched using the protocol handler and is in the "Lock
 
 ## Switching to/from Full-Screen Mode
 
-When switching RDP sessions to or from full-screen mode, Connection Manager does not reconnect the RDP session. The RDP Proxy uses one time passwords and Connection Manager cannot reconnect without generating the new RDP proxy username/password and ConnectionManager does not re-create Secret Server sessions when switching between screen modes.
+When you resize the RDP window to a larger size we disconnect and reconnect so we can get the higher screen resolution. The RDP Proxy uses one time passwords (OTP), Connection Manager cannot reconnect to RDP proxy without generating a new OTP. Connection Manager is unable to auto reconnect when switching screen modes when the connection is using RDP Proxy and OTP.
 
 ## Session Recording
 
