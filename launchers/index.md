@@ -15,9 +15,11 @@ If Connection Manager is launched using the protocol handler and is in the "Lock
 
 >**Note**: Local Connections are limited to RDP and SSH launchers.
 
-## Switching to/from Full-Screen Mode
+## Resizing and Switching to/from Full Screen Mode
 
-When you resize the RDP window to a larger size we disconnect and reconnect so we can get the higher screen resolution. The RDP Proxy uses one time passwords (OTP), Connection Manager cannot reconnect to RDP proxy without generating a new OTP. Connection Manager is unable to auto reconnect when switching screen modes when the connection is using RDP Proxy and OTP.
+When you resize or switch to/from full screen mode in Connection Manager with an active RDP session, we disconnect and reconnect to the session so we can get the higher screen resolution settings. However, when the connection is using an __RDP Proxy__, Connection Manager is unable to auto reconnect to the session. RDP Proxy sessions generate one time passwords (OTP) when launched, and those passwords are used when making the connection. As a result, Connection Manager cannot reconnect to RDP proxy without generating a new OTP which it cannot retrieve, since the credential generation is part of the launcher process.
+
+Resizing an RDP window inside Connection Manager does not have an impact on the connection, as the Connection Manager resolution remains the same.
 
 ## Session Recording
 
