@@ -1,6 +1,6 @@
 [title]: # (Release Notes)
 [tags]: # (releasenotes,bugs,fixes)
-[priority]: # (800)
+[priority]: # (799)
 # Release Notes 
 
 The following Connection Manager release notes are available:
