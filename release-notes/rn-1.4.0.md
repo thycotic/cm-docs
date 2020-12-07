@@ -7,28 +7,35 @@
 
 ## Enhancements
 
-* Open and edit connections in bulk
-  * by moving multiple connections into a folder and clicking the folder to open or edit all connections in the folder
-  * by selecting multiple connections across multiple folders and clicking once to open or edit all the selected connections
+* Users can now open connections in bulk by selecting multiple connections across multiple folders and clicking once to open them all, or by moving multiple connections into a folder and clicking the folder once to open all connections in the folder.
 
-* Move connection tabs:
-  * Drag and drop tabs to reorder and organize them
-  * Undock a tab from the main Connection Manager window as a standalone window. You can then move it to a different monitor, or re-dock the same tab next to the other tabs in the main Connection Manager window.
+* Users can now drag and drop tabs to reorder and organize them. Users can also undock a tab from the main Connection Manager window. The undocked tab becomes a standalone window that users can move to a different monitor, or re-dock next to the other tabs in the main Connection Manager window.
 
-* Use multiple monitors for multiple RDP connections. The user can open an RDP session in full screen mode on a second monitor
+* Users can now open an RDP session in full screen mode on a second monitor.
 
-* Reorganize Local Connections – Drag and drop folders within local connections
+* Users can now reorganize Local Connections by dragging and dropping folders.
 
-* Duplicate an existing connection, then rename it or save it in a different folder
+* Users can now duplicate an existing connection using copy/paste, then rename it or save it in a different folder.
 
-* Edit local RDP or SSH connections in batch
+* Users can now edit Local RDP or SSH connections in bulk.
 
-* Ability to add/Admin or the Admin flag to remotely connect to an RDS server
+* An Admin flag/switch now supports remote connections to RDS server.
 
-* A new “Shared with me” section in the navigation lists all secrets/sessions that have been shared with you from a Secret Server connection
+* A new “Shared with me” section in the navigation lists all secrets/sessions shared with you from a Secret Server connection.
 
-* For proxy connections, the remote host name appears on the session tab at the top of the screen to readily identify the machine it is associated with
+* When a session is connecting using a proxy, the remote host name appears on the session tab at the top of the screen.
 
+* Users can now use a microphone on a local RDP session.
+
+* Devolutions import now provides improved error message handling.
+
+* Users can now use custom proxy launchers in Connection Manager.
+
+* Users can now see the Secret name on the Select Launcher dialog.
+
+* Users can now mark multiple items as Favorites using the Context menu.
+
+* An icon has been added to the Connection tab for maximizing the window.
 
 
 ## Bug Fixes
