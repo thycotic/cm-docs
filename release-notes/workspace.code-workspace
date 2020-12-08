@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Thycotic.WPF.Docs",
+			"path": "..\\..\\Thycotic.WPF.Docs\\Thycotic.WPF.Docs"
+		}
+	],
+	"settings": {}
+}
