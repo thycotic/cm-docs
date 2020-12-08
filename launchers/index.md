@@ -27,9 +27,9 @@ Resizing an RDP window inside Connection Manager does not have an impact on the 
 
 You can move session tabs to arrange them in logical ways. For example, you can place the tabs of related connections next to each other for easier collective access.
 
-To re-order open session tabs in the main Connection Manager window, click and drag tabs left and right in the row of tabs.
+To re-order session tabs in the main Connection Manager window, click and drag tabs left and right in the row of tabs.
 
-To undock a tab, click and drag it out of the main Connection Manager window. The undocked tab becomes a standalone window that you can move to a new location on your desktop or to another monitor. To redock a tab, click and drag it back into the main Connection Manager window and drop it into the row of docked tabs.
+To undock a tab, click and drag it out of the main Connection Manager window. The undocked tab becomes a standalone window that you can move to a new location on your desktop or on another monitor. To redock a tab, click and drag it back into the main Connection Manager window and drop it into the row of docked tabs.
 
 
 ## Session Recording
