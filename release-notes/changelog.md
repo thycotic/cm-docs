@@ -1,6 +1,6 @@
 [title]: # (Changelog)
 [tags]: # (doc changes)
-[priority]: # (899)
+[priority]: # (900)
 # Changelog
 
 This topic provides a chronological list of documentation changes, to help track additions, deletions, and contents edits other than spelling and grammar corrections.
@@ -8,6 +8,7 @@ This topic provides a chronological list of documentation changes, to help track
 ## December 2020
 
 * 1.4.0 Feature release updates, refer to [Release Notes](rn-1.4.0.md) for details.
+
 ## August 2020:
 
 * 1.3.2 Hotfix release updates, refer to [Release Notes](rn-1.3.2.md) for details.
