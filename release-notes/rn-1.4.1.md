@@ -57,3 +57,5 @@
 * On the Connecting with an invalid certificate warning, Connection Manager now saves the selection to "bypass this error and connect anyway" (Mac OS).
 
 * When connecting to Secret Server, long template names are no longer truncated (Mac OS).
+
+* Fixed an issue related to exporting local connection folders.
