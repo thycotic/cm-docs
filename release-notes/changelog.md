@@ -7,7 +7,7 @@ This topic provides a chronological list of documentation changes, to help track
 
 ## December 2020
 
-* 1.4.0 Feature release updates, refer to [Release Notes](rn-1.4.0.md) for details.
+* 1.4.1 Feature release updates, refer to [Release Notes](rn-1.4.1.md) for details.
 
 ## August 2020:
 
