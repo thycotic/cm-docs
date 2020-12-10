@@ -1,4 +1,4 @@
-[title]: # (1.4.0 Release)
+[title]: # (1.4.1 Release)
 [tags]: # (release notes)
 [priority]: # (890)
 # 1.4.1 Release Notes
@@ -40,20 +40,20 @@
 
 ## Bug Fixes
 
- * Renaming the default launchers in Secret Server no longer causes an error in Connection Manager on session launch.
+* Renaming the default launchers in Secret Server no longer causes an error in Connection Manager on session launch.
 
- * Connection Manager no longer freezes or crashes when SSH proxy is turned on in Secret Server.
+* Connection Manager no longer freezes or crashes when SSH proxy is turned on in Secret Server.
 
- * Users no longer receive frequent requests to re-authenticate while the RDP session is open.
+* Users no longer receive frequent requests to re-authenticate while the RDP session is open.
 
- * The Generate token button now works correctly after upgrading to a newer version.
+* The Generate token button now works correctly after upgrading to a newer version.
 
- * Connection Manager now displays the endpoint name when used as an RDP launcher.
+* Connection Manager now displays the endpoint name when used as an RDP launcher.
 
- * Connection Manager UI now appropriately restores to full screen and to the previously resized window.
+* Connection Manager UI now appropriately restores to full screen and to the previously resized window.
 
- * Connection Manager now supports "Proxied SSH process" launcher types.
+* Connection Manager now supports "Proxied SSH process" launcher types.
 
- * On the Connecting with an invalid certificate warning, Connection Manager now saves the selection to "bypass this error and connect anyway" (Mac OS).
+* On the Connecting with an invalid certificate warning, Connection Manager now saves the selection to "bypass this error and connect anyway" (Mac OS).
 
- * When connecting to Secret Server, long template names are no longer truncated (Mac OS).
+* When connecting to Secret Server, long template names are no longer truncated (Mac OS).
