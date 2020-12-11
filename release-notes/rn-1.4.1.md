@@ -11,8 +11,6 @@
 
 * Users can now drag and drop tabs to reorder and organize them. Users can also undock a tab from the main Connection Manager window. The undocked tab becomes a standalone window that users can move to a different monitor, or re-dock next to the other tabs in the main Connection Manager window.
 
-* Users can now open an RDP session in full screen mode on a second monitor.
-
 * Users can now reorganize Local Connections by dragging and dropping folders.
 
 * Users can now duplicate an existing connection using copy/paste, then rename it or save it in a different folder.

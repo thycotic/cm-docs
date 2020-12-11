@@ -1,7 +1,8 @@
-[title]: # (Folder: Create, Edit, Delete)
+[title]: # (Folder Editing)
 [tags]: # (folder)
 [priority]: # (501)
-# Folder Editing
+
+# Folder: Create, Edit, Move, Delete
 
 ## Create a New Folder
 
