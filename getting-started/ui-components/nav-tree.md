@@ -27,7 +27,7 @@ Select to view or launch all secrets and sessions shared with you from all curre
 
 ![Shared](images/shared-with-me.png "Shared page")
 
-Double clicking on these Secrets will launch sessions for them,
+Double clicking on these Secrets will launch sessions.
 
 ## Recent
 

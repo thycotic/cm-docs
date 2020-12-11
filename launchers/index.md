@@ -23,19 +23,18 @@ When a session is connecting through a proxy, the tab label displays the identit
 
 ## Screen Resolution for New Session Window Views
 
-When you maximize an active RDP session window or you drag it as a standalone window to a second monitor, the session automatically disconnects and reconnects so it can use the highest supported screen resolution for the new window view. When you do the same things with an active RDP *Proxy* session window, the session cannot automatically disconnect and reconnect because RDP Proxy sessions launch with a one-time password (OTP) that cannot be regenerated. Therefore an RDP Proxy session cannot use the highest supported screen resolution for a new window view. Note: no RDP session of any kind can use the highest supported screen resolution for a new window view if the default setting for Resolution has been changed from **Auto** to **Fixed**.
+When you maximize an active RDP session window or you drag it as a standalone window to a second monitor, the session automatically disconnects and reconnects so it can use the highest supported screen resolution for the new window view. When you do the same with an active RDP *Proxy* session window, the session cannot automatically reconnect because RDP Proxy sessions launch with a one-time password (OTP) that cannot be regenerated. Therefore an RDP Proxy session cannot use the highest supported screen resolution for a new window view. Note: no RDP session of any kind can use the highest supported screen resolution for a new window view if the default setting for Desktop Size has been changed from **Auto** to a fixed size under RDP Global Settings.
 
 ## Moving and Reorganizing Session Tabs and Windows
 
-You can undock, move, and tabs and session windows in Connection Manager.
+You can undock, move, and redock session tabs and windows in Connection Manager.
 To undock a session window, click the session tab and drag it out of the tab dock area. The tab becomes a standalone session window, which you can drag to another monitor or to another location on your desktop.
 
-To redock a session window, click and drag it toward the row of docked tabs in the main Connection Manager window.
-As you drag the window close to the tab dock, a blue line appears around the dock:
+To redock a session window, click and drag it toward the row of docked tabs in the main Connection Manager window. As you drag the window close to the tab dock, a blue line appears around the dock:
 
 ![drag to dock](images/redock-drag.png "The tab dock is outlined")
 
-When you drag the window onto the tab dock, the dock turns light blue to indicate that you can drop the window there:
+When you drag the window onto the tab dock, the dock turns light blue to indicate that you can drop the window:
 
 ![drop to dock](images/redock-drop.png "The tab dock turns blue")
 

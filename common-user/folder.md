@@ -1,7 +1,7 @@
 [title]: # (Folder: Create, Edit, Delete)
 [tags]: # (folder)
 [priority]: # (501)
-# Create, Edit, Move, and Delete Folders
+# Folder Editing
 
 ## Create a New Folder
 
@@ -30,7 +30,6 @@ View [Integrated Connections](connections/integrated-conn/index.md) for addition
 2. Make any desired change to the folder and click __Save__.
 
 View the [Integrated Connections](connections/integrated-conn/index.md) section for additional information on credentials.
-
 
 ## Move a Folder
 
