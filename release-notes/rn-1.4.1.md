@@ -19,17 +19,15 @@
 
 * Users can now edit Local RDP or SSH connections in bulk.
 
-* An Admin flag/switch now supports remote connections to RDS server.
+* Added Run as Admin support for RDP sessions.
 
 * A new “Shared with me” section in the navigation lists all secrets/sessions shared with you from a Secret Server connection.
 
 * When a session is connecting using a proxy, the remote host name appears on the session tab at the top of the screen.
 
-* Users can now use a microphone on a local RDP session.
+* Users can now enable the microphone option on an RDP connection (not the same as session recording)
 
 * Devolutions import now provides improved error message handling.
-
-* Users can now use custom proxy launchers in Connection Manager.
 
 * Users can now see the Secret name on the Select Launcher dialog.
 

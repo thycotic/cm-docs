@@ -21,6 +21,14 @@ Favorites page showing local and Secret Server connection favorites:
 
 ![Favorites Secret Server](images/favs-2.png "Favorites page showing local and Secret Server connection favorites")
 
+## Shared With Me
+
+Select to view or launch all secrets and sessions shared with you from all currently connected secret servers.
+
+![Shared](images/shared-with-me.png "Shared page")
+
+Double clicking on these Secrets will launch sessions.
+
 ## Recent
 
 Select to view or launch recently active sessions or to create a new Secret Server connection.
