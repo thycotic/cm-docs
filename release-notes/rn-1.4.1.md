@@ -19,7 +19,7 @@
 
 * Users can now edit Local RDP or SSH connections in bulk.
 
-* An Admin flag/switch now supports remote connections to RDS server.
+* An Admin flag/switch now supports remote connections to an RDS server.
 
 * A new “Shared with me” section in the navigation lists all secrets/sessions shared with you from a Secret Server connection.
 

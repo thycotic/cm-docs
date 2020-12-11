@@ -17,19 +17,27 @@ When a remote session is connecting over a proxy, the connection tab displays th
 
 >**Note**: Local Connections are limited to RDP and SSH launchers.
 
-## Resizing and Switching to/from Full Screen Mode
+## Proxy Tabs Show Remote Host Name
 
-When you resize or switch to/from full screen mode in Connection Manager with an active RDP session, we disconnect and reconnect to the session so we can get the higher screen resolution settings. However, when the connection is using an __RDP Proxy__, Connection Manager is unable to auto reconnect to the session. RDP Proxy sessions generate one time passwords (OTP) when launched, and those passwords are used when making the connection. As a result, Connection Manager cannot reconnect to RDP proxy without generating a new OTP which it cannot retrieve, since the credential generation is part of the launcher process.
+When a session is connecting through a proxy, the tab label displays the identity of the remote host. 
 
-Resizing an RDP window inside Connection Manager does not have an impact on the connection, as the Connection Manager resolution remains the same.
+## Screen Resolution for New Session Window Views
 
-## Moving and Reorganizing Launched Session Tabs
+When you maximize an active RDP session window or you drag it as a standalone window to a second monitor, the session automatically disconnects and reconnects so it can use the highest supported screen resolution for the new window view. When you do the same things with an active RDP *Proxy* session window, the session cannot automatically disconnect and reconnect because RDP Proxy sessions launch with a one-time password (OTP) that cannot be regenerated. Therefore an RDP Proxy session cannot use the highest supported screen resolution for a new window view. Note: no RDP session of any kind can use the highest supported screen resolution for a new window view if the default setting for Resolution has been changed from **Auto** to **Fixed**.
 
-You can move session tabs to arrange them in logical ways. For example, you can place the tabs of related connections next to each other for easier collective access.
+## Moving and Reorganizing Session Tabs and Windows
 
-To re-order session tabs in the main Connection Manager window, click and drag tabs left and right in the row of tabs.
+You can undock, move, and tabs and session windows in Connection Manager.
+To undock a session window, click the session tab and drag it out of the tab dock area. The tab becomes a standalone session window, which you can drag to another monitor or to another location on your desktop.
 
-To undock a tab, click and drag it out of the main Connection Manager window. The undocked tab becomes a standalone window that you can move to a new location on your desktop or on another monitor. To redock a tab, click and drag it back into the main Connection Manager window and drop it into the row of docked tabs.
+To redock a session window, click and drag it toward the row of docked tabs in the main Connection Manager window.
+As you drag the window close to the tab dock, a blue line appears around the dock:
+
+![drag to dock](images/redock-drag.png "The tab dock is outlined")
+
+When you drag the window onto the tab dock, the dock turns light blue to indicate that you can drop the window there:
+
+![drop to dock](images/redock-drop.png "The tab dock turns blue")
 
 
 ## Session Recording
