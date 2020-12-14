@@ -9,7 +9,7 @@
 
 * Users can now open connections in bulk by selecting multiple connections across multiple folders and clicking once to open them all, or by moving multiple connections into a folder and clicking the folder once to open all connections in the folder.
 
-* Users can now drag and drop tabs to reorder and organize them. Users can also undock a tab from the main Connection Manager window. The undocked tab becomes a standalone window that users can move to a different monitor, or re-dock next to the other tabs in the main Connection Manager window.
+* Users can now click and drag a session tab to undock it from the main Connection Manager window. The tab becomes a standalone window that users can move to a different monitor or to a different position on their desktop. Users can also re-dock the window as a tab next to any of the other tabs in the main Connection Manager window.
 
 * Users can now open an RDP session in full screen mode on a second monitor.
 
@@ -54,6 +54,12 @@
 
 * On the Connecting with an invalid certificate warning, Connection Manager now saves the selection to "bypass this error and connect anyway" (Mac OS).
 
-* When connecting to Secret Server, long template names are no longer truncated (Mac OS).
+* When connecting to Secret Server, long template names are no longer truncated (Mac OS)
 
 * Fixed an issue related to exporting local connection folders.
+
+
+## Known Issue
+
+* Clicking on “X” to close an undocked session window, then immediately trying to move the window back to the docking area could lock the other tabs.
+Workaround: Close and re-start Connection Manager.
