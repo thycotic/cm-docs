@@ -5,6 +5,10 @@
 
 This topic provides a chronological list of documentation changes, to help track additions, deletions, and contents edits other than spelling and grammar corrections.
 
+## December 2020
+
+* 1.4.1 Feature release updates, refer to [Release Notes](rn-1.4.1.md) for details.
+
 ## August 2020:
 
 * 1.3.2 Hotfix release updates, refer to [Release Notes](rn-1.3.2.md) for details.
