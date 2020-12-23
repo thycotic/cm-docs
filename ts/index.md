@@ -12,5 +12,6 @@ This section provides helpful troubleshooting tips and answer to frequently aske
 * [Invocation Error on Connect](invocation-error-ss.md)
 * [Encryption](encryption.md)
 * [Licensing](licenses.md)
+* [Generate Additional Log Entries](additional-log-entries.md)
 * [Related Resources](related-res.md)
 <!-- * [Workflows](workflows.md) -->
