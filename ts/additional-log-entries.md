@@ -5,11 +5,7 @@
 
 ## Issue
 
-In the Connection Manager 1.4.1 release, Connection Manager might generate insufficient log entries for effective troubleshooting. To generate additional log entries such as entries for embedded web browser actions, you need to edit the Thycotic.ConnectionManager.exe.config file.
-
-## Workaround
-
-To generate additional log entries, set the log level value to DEBUG and use the web login feature:
+In Connection Manager 1.4.1: if you need to generate additional log entries for troubleshooting, you can change the log level value to `DEBUG` and use the web login feature:
 
 1.	Open the `Thycotic.ConnectionManager.exe.config` file
 
