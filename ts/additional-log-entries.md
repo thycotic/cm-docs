@@ -3,8 +3,8 @@
 [priority]: # (709)
 # Generate Additional Log Entries
 
-If you need to generate additional log entries to help troubleshoot Connection Manager issues, you can set the log level to DEBUG. Bear in mind that the DEBUG setting will generate many more log entries and larger log files, so after troubleshooting
-you should return the log level to its default setting, INFO.
+Should you need to generate more detailed logging to help troubleshoot Connection Manager issues, you can set the log level to DEBUG per the steps below.
+Setting the log level to DEBUG will generate larger log files so it is recommended that you return the setting back to INFO when you are done troubleshooting.
 
 1.	Open the `Thycotic.ConnectionManager.exe.config` file
 
