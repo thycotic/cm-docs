@@ -7,7 +7,7 @@
 
 1. From the right-click context menu, click __Copy__. The connection is copied to your clipboard.
 
-1. Right-click the Connection Manager screen and click click __Paste__ from the context menu.
+1. Right-click the Connection Manager screen and from the context menu, click __Paste__.
 The duplicate connection is added to the connections on the Connection Manager screen.
 
 1. Edit the Connection name and other parameters as desired.
