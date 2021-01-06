@@ -9,6 +9,7 @@ In Connection Manager there are several ways to simultaneously open multiple con
 You can batch open multiple Local and Secret Server Connections, even when they are in different folders
 
 1. Click to check the box before each connection you wish to open
+
    ![Open](images/batch-open-multi.png "Multi-select connections to open")
 1. In the toolbar click the __Connect__ icon.
 
@@ -16,6 +17,7 @@ You can batch open multiple Local and Secret Server Connections, even when they 
 You can batch open all connections in a folder, at the folder level.
 
 1. Click to check the box before the folder whose connections you wish to open simultaneously.
+
    ![Open](images/open-folder.png "Open all connections in a folder")
 1. In the toolbar click the __Connect__ icon.
 
