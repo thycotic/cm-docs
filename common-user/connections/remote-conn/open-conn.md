@@ -12,7 +12,7 @@ The process of connecting to a Local connection or to a Secret from Secret Serve
 
      Sessions launched from a Secret Server Secret may have workflows associated with the launching or closing of a session. If the connection requires no special workflow, the remote connection will be established as a new tab in the work area. If user entry is required for a workflow action, a window(s) will open prior to connecting so users can enter the appropriate or required data.
 
-   >**Note**: When connecting to a Secret with a whitelist, users will be prompted to enter a text value if the list is empty.
+   >**Note**: When connecting to a Secret with an Allowed List, users will be prompted to enter a text value if the list is empty.
 1. Select a launcher. For Secrets where multiple launchers are available, you are prompted to select one.
 
    ![Launch](images/remote-5.png "Launch Secret page")

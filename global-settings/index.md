@@ -3,23 +3,21 @@
 [priority]: # (400)
 # Configure Global Settings
 
-Global Settings allows a user to control default parameter values when creating Local connections. To access:
+Global Settings allows a user to control default parameter values when creating Local connections. All default options may be overridden within the individual connections. Connections from Secret Server do not support all available parameters. In such cases the default parameters will be substituted. Any of the default configuration values that are specified in a Secret from a Secret Server connection, will use the values from the Secret instead of the Global Configurations.
 
-1. On the Configuration menu, click __Global Settings__. The Global Configurations dialog box opens.
+On the Configuration menu, click __Global Configurations__. The Global Configurations dialog box opens to the **RDP Global Settings** tab, where you can configure settings such as **Desktop Size**, **Color Depth**, and **Local Devices**.
 
-   ![Global Configurations](images/global-1.png "Global Configurations page")
+   ![Global Configurations](images/global-rdp.png "Global Configurations page")
 
-The available options are accessible via tab controls and include
+On the **SSH Global Settings** tab, you can configure settings such as **Font** and **Font Size**. You can choose one of the **Color Presets** or you can create a Custom color scheme by changing the individual values for **Backgound Color**, **Foregound Color**, **Bold Color**, or **Underlined Color**. 
 
-* __RDP Global Settings__ - allows to specify default desktop size settings, etc.
-* __SSH Global Settings__ - allows to specify the default font, etc.
-* __Launcher Settings__ - allows administrators to switch protocol handlers.
+   ![Global Configurations](images/global-ssh-1.png "Global Configurations page")
 
-All default options may be overridden within the individual connections. Connections from Secret Server do not support all available parameters. In such cases the default parameters will be substituted.
 
-Any of the default configuration values that are specified in a Secret, from a Secret Server connection, will use the values from the Secret instead of the Global Configurations.
+On the **Launcher Settings** tab, you can choose your Protocol Handler if you are an administrator. Connection Manager checks for the legacy protocol handler and detects the file type version appropriately.
 
-When accessing the Launcher Settings tab, Connection Manager checks for the legacy protocol handler. To make any changes the user needs to be an administrator. Connection Manager detects the file type version appropriately.
+   ![Global Configurations](images/global-launcher.png "Global Configurations page")
+
 
 ## Globally Enforced Secret Server Settings
 
