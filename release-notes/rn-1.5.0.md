@@ -11,7 +11,8 @@
 * You can now customize the text and colors used in your SSH terminal interface.
 * When connecting to Secret Server, the Generate Token button is now automatically clicked in the background to generate the token for access.
 * Terminology has been updated so that a list of allowed RDP connections is now called an *Allowed List* and a list of forbidden RDP connections is now called a *Blocked List*.
-* When your internet connection to Secret Server is lost, Connection Manager now displays the dialog, Attempting to Auto-reconnect to [Secret Server name], with options to Cancel the attempt or to manually Reconnect. After a maximum of three minutes of unsuccessful attempts to reconnect, the dialog closes and the Connect dialog opens.  
+* When your internet connection to Secret Server is lost, Connection Manager attempts to automatically reconnect and re-authenticate in the background. After 30 seconds it displays the dialog, **Attempting to Auto-reconnect to [Secret Server name]** and continues attempting to reconnect and re-authenticate for another three minutes.   
+* Administrators can choose to use the Connection Manager protocol handler or the legacy protocol handler, Secret Server Launcher. Administrators can also switch between the two protocol handlers. If both protocol handlers are installed and the administrator uninstalls one of them, the other protocol handler will register itself as the protocol handler for all users on installation.
 
 
 ## Bug Fixes

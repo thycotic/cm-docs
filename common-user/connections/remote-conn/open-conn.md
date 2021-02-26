@@ -18,9 +18,9 @@ The process of connecting to a Local connection or to a Secret from Secret Serve
    ![Launch](images/remote-5.png "Launch Secret page")
 
    Click __Launch Now__.
-1. Select a __Host__ or __Machine ID__. For Secrets where a host is not specified, you are prompted to enter one.
+1. Select a __Host__ or __Machine ID__. For Secrets where a host is not specified, you are prompted to enter a host machine name into a search box. As soon as enough character are typed to generate at least a partial match, Connection Manager returns matching machines .
 
-   ![Connect](images/remote-6.png "Connect page")
+   ![Launch search](images/launch-secret-search.png "Launch Secret Search")
 
    Click __Connect__.
 1. Enter user credentials. For Connections or Secrets without an embedded username and/or password, a modal opens (based on launcher type) to enter credentials.
