@@ -14,7 +14,7 @@ On the **SSH Global Settings** tab, you can configure settings such as **Font** 
    ![Global Configurations](images/ssh-color-picker.png "Global Configurations page")
 
 
-On the **Launcher Settings** tab, administrators can choose to use the Connection Manager protocol handler or the legacy protocol handler, Secret Server Launcher. Administrators can also switch between the two protocol handlers. If both protocol handlers are installed and the administrator uninstalls one of them, the other protocol handler will register itself as the protocol handler for all users on installation. 
+On the **Launcher Settings** tab, administrators can choose to use the Connection Manager protocol handler or the legacy protocol handler, Secret Server Launcher. Users can also switch between the two protocol handlers. If both protocol handlers are installed and the administrator uninstalls one of them, the other protocol handler will register itself as the protocol handler for all users on installation. 
 
    ![Global Configurations](images/global-launcher.png "Global Configurations page")
 
