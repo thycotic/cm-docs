@@ -49,13 +49,13 @@ The Secret Server Connections dialog shows the list of connections, with the aut
 
 The connection is also added to the navigation menu with an open lock icon to the left.
 
->**Note**: Secret Server connections will persist between sessions of Connection Manager; however, users must re-authenticate the connection after the application is launched, or following a session timeout.
+>**Note**: Secret Server connections will persist between sessions of Connection Manager; however, users must re-authenticate the connection after the application is launched, or following a session timeout. If you lose your internet connection to Secret Server, Connection Manager retains your authentication for several minutes and displays the dialog, **Attempting to Auto-reconnect to [Secret Server name]**, with options to Cancel the attempt or to manually Reconnect. After more than three minutes of unsuccessful attempts to reconnect, the dialog closes and the Connect dialog opens.
 
 ## Web Login
 
 If you are using SAML, follow these steps:
 
-1. On the __Secret Server Connections__ window select __Add a Connection__. The Secret Server connection wizard opens.
+1. In the __Secret Server Connections__ window, select __Add a Connection__. The Secret Server connection wizard opens.
 
    ![connect to 1](images/saml-1.png "Connect to dialog Step 1 of 3")
    1. Complete Step 1 required fields, including:
@@ -65,22 +65,22 @@ If you are using SAML, follow these steps:
       * __Authentication Type__: Select __Web Login__.
   
       Click __Next__.
-1. On the Step 2 of 3 dialog complete:
 
-   ![connect to 2](images/saml-2.png "Connect to dialog Step 2 of 3")
+1. In the dialog **Step 2 of 3**, complete:
+
+   ![connect to 2](images/saml-2b.png "Connect to dialog Step 2 of 3")
 
       * __Username__: The username for the Secret Server instance to which you want to login. (This is NOT the "username@company.com" format.)
       * __Password__: The password for the account.
 
       1. Click __Login__.
-      1. Click __Generate Token__.
+     
 
-         ![connect to 2](images/saml-3.png "Connect to dialog to generate a token")
+         ![connect to 2](images/saml-3b.png "Connect to dialog to generate a token")
 
-      Click __Connect__.
-1. For Step 3 of 3, the system automatically fetches a list of Secret templates from the Secret Server URL provided in step 1 of 3. The most common templates for RDP and SSH sessions are selected by default. You may select and deselect additional templates as needed, and you may also search for a specific template by name.
+     
+1. For **Step 3 of 3**, the system automatically fetches a list of Secret templates from the Secret Server URL provided in step 1 of 3. The most common templates for RDP and SSH sessions are selected by default. You may select and deselect additional templates as needed, and you may also search for a specific template by name.
 
-   ![connect to 3](images/con-3.png "Connect to dialog Step 3 of 3")
 1. Click __Finish__ once all desired templates have been selected.
 
 The Secret Server Connections dialog shows the list of connections, with the authenticated one as unlocked.
