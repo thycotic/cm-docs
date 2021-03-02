@@ -1,9 +1,14 @@
 [title]: # (Changelog)
 [tags]: # (doc changes)
 [priority]: # (900)
+
 # Changelog
 
-This topic provides a chronological list of documentation changes, to help track additions, deletions, and contents edits other than spelling and grammar corrections.
+A chronological list of documentation changes to help track additions, deletions, and contents edits other than spelling and grammar corrections.
+
+## March 2021
+
+* 1.5.0 Feature release updates, refer to [Release Notes](rn-1.5.0.md) for details.
 
 ## December 2020
 
