@@ -46,7 +46,7 @@
 ## Bug Fixes 
 
 * Resolved issues when the Mac app showed “null” certificate and the FreeRDP library crashes when connecting to a windows server (Mac)  
-* Fixed an issue when mapping a local SSH connection to a Secret resulted in the error **A supplied password or username is incorrect**.”  
+* Fixed an issue when mapping a local SSH connection to a Secret resulted in the error **A supplied password or username is incorrect**.
 * Resolved unexplained RDP connection interruptions in Connection Manager for Mac 
 * Resolved issues related to the Protocol Handler on a Mac. Full Screen and menu items now work with Protocol Handler (Mac)  
 * Resolved an issue where the **Connect to Secret Server** dialog would hang if the connection was physically disconnected (Mac)  
