@@ -61,7 +61,7 @@
 * Periodic black video in SSH session recording  
 * RDP Connections may not stay open when connection manager auto-reconnects after a brief interruption in the internet connection. 
 * Connection Manager not requesting a token refresh when TOTP is enabled.  
-* In a Citrix environment, error **Failed to configure RDP component. The specified socket is already in use**. 
+* In a Citrix environment when connecting via SSH Tunnel Proxy, you may in some cases get the error, **Failed to configure RDP component. The specified socket is already in use**.
 * SSL Certificate bypass is not possible when using the Web Login method to connect to Secret Server. 
 * Some users may get redirected to the Secret Server web page instead of Connection Manager when using the TOTP method and web login to connect to Secret Server or Secret Server cloud.  
 * When used as a Protocol Handler, cannot open more than one instance per system. 
