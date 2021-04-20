@@ -1,11 +1,13 @@
 [title]: # (General)
 [tags]: # (faq,error,failed,ss,connect,data,datasheet,SAML,help,heartbeat)
 [priority]: # (701)
+
 # General
 
 <!-- 
 ## Is there an associated Datasheet?
 Yes, it's with Marketing. Please check with [Barbara Hoffman](mailto:mailtoBarbara.Hoffman@thycotic.com?subject=Connection Manager Datasheet) for a link.-->
+
 ## Is there a local session timeout for sessions within Connection Manager (CM)?
 
 Yes. - For Local Connections, the Windows default socket connect timeout applies (e.g. standard RDP/SSH remote session timeout). The session timeouts on secrets can be set in Secret Server (SS).

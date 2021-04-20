@@ -1,6 +1,7 @@
 [title]: # (Troubleshooting)
 [tags]: # (faq)
 [priority]: # (700)
+
 # Troubleshooting
 
 This section provides helpful troubleshooting tips and answer to frequently asked questions.
@@ -14,4 +15,5 @@ This section provides helpful troubleshooting tips and answer to frequently aske
 * [Licensing](licenses.md)
 * [Generate Additional Log Entries](additional-log-entries.md)
 * [Related Resources](related-res.md)
+
 <!-- * [Workflows](workflows.md) -->
