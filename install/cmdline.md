@@ -1,6 +1,7 @@
 [title]: # (Command Line Arguments)
 [tags]: # (cm,install)
 [priority]: # (115)
+
 # Command Line Arguments to Create a Secret Server Connection on Install
 
 The following command line arguments can be used to install Connection Manager and create a connection to Secret Server when using the MSI file.

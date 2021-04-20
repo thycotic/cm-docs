@@ -1,6 +1,7 @@
 [title]: # (Log Files)
 [tags]: # (user)
 [priority]: # (501)
+
 # Log Files
 
 The Connection Manager log files can be found at the following default locations.
