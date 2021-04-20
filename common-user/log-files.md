@@ -26,3 +26,4 @@ On macOS you change the logging level of Connection Manager's logs to DEBUG mode
 ```bash
 defaults write com.Thycotic.ConnectionManager FileLogLevel 'Debug'
 ```
+

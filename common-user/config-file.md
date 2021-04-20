@@ -11,7 +11,8 @@ The Connection Manager configuration files can be found at the default locations
 C:\Program Files\Thycotic Software Ltd\Thycotic Connection Manager\Thycotic.ConnectionManager.exe.config for Windows
 
 ## macOS Configuration File Location
-/Users/<yourusername>/Library/Preferences/com.Thycotic.ConnectionManager.plist
+
+/Users/`<yourusername>`/Library/Preferences/com.Thycotic.ConnectionManager.plist
 
 ### Disable update check on startup
 
