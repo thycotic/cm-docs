@@ -14,8 +14,14 @@ C:\Program Files\Thycotic Software Ltd\Thycotic Connection Manager\Thycotic.Conn
 
 /Users/`<yourusername>`/Library/Preferences/com.Thycotic.ConnectionManager.plist
 
-### Disable update check on startup
+### Disable update check on startup for Windows
 
-To disable Connection Manager from checking for updates automatically on startup, open the Thycotic.ConnectionManager.exe.config file at the location indicated above, and change the value to False as depicted in the screen shot.
+To disable automatic checking for updates on startup, for Windows open the configuration file and change the value to False as depicted in the screen shot.
 
 ![win-debug](images/disable-update-check.png "Windows Thycotic.ConnectionManager.exe.config file log4net level change")
+
+### Disable update check on startup for macOS
+
+To disable automatic checking for updates on startup for macOS, in Terminal type:
+
+`defaults write com.Thycotic.ConnectionManager Env.CheckUpdateOnStartup -bool false`
