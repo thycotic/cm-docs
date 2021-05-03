@@ -16,7 +16,7 @@ C:\Program Files\Thycotic Software Ltd\Thycotic Connection Manager\Thycotic.Conn
 
 ### Disable update check on startup for Windows
 
-To disable automatic checking for updates on startup, for Windows open the configuration file and change the value to False as depicted in the screen shot.
+To disable automatic checking for updates on startup, for Windows open the configuration file and change the value to False as depicted in the screen shot below.
 
 ![win-debug](images/disable-update-check.png "Windows Thycotic.ConnectionManager.exe.config file log4net level change")
 
