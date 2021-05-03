@@ -1,6 +1,7 @@
 [title]: # (Log Files)
 [tags]: # (user)
 [priority]: # (501)
+
 # Log Files
 
 The Connection Manager log files can be found at the following default locations.
@@ -26,3 +27,4 @@ On macOS you change the logging level of Connection Manager's logs to DEBUG mode
 ```bash
 defaults write com.Thycotic.ConnectionManager FileLogLevel 'Debug'
 ```
+
