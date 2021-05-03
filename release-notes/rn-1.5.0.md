@@ -1,18 +1,19 @@
 [title]: # (1.5.0 Release)
 [tags]: # (release notes)
 [priority]: # (889)
+
 # 1.5.0 Release Notes
 
 *Release Date: March 2, 2021*
 
 ## Features
 
-* Protocol Handler Improvements 
-  * Administrator option to have Connection Manager register itself as the default Protocol Handler for all users 
-  * Preserve the default Protocol Handler selection during an upgrade. 
-  * Ability to have users switch between **Connection Manager**  and **Legacy Protocol Handler** 
-  * Administrator option to install/uninstall the **Legacy Protocol Handler**  as the default for all users 
-  * Ability for a non-admin user to switch between **Connection Manager**  and **Legacy Protocol Handler** 
+* Protocol Handler Improvements
+  * Administrator option to have Connection Manager register itself as the default Protocol Handler for all users
+  * Preserve the default Protocol Handler selection during an upgrade.
+  * Ability to have users switch between **Connection Manager**  and **Legacy Protocol Handler**
+  * Administrator option to install/uninstall the **Legacy Protocol Handler**  as the default for all users
+  * Ability for a non-admin user to switch between **Connection Manager**  and **Legacy Protocol Handler**
 * Customize the colors used in a SSH Session. 
   * Users will be able to choose colors used in an SSH session for the background, foreground, bold and underlined text 
   * Users will have a **Global Configuration** option as well as the ability to override and choose a different set of colors * for each local connection.  
@@ -39,7 +40,7 @@
 * General Maintenance Updates 
   * Set copyright image to 2021 (Win/Mac) 
   * Resolved issues with a stuck connection with Connection Manager for Mac 
-  * Added configuration option to disable automatic checking for update on startup. 
+  * Added [configuration option](../common-user/config-file.md) to disable automatic checking for update on startup. 
   * Set RDP session to stay in Full Screen mode after reconnecting if previous mode was full screen. 
   * A custom DAT file created in 1.4 will be usable in 1.5. 
 
