@@ -19,6 +19,8 @@
 
 * Users can now use Windows key combination shortcuts in an RDP session. These settings can be configured per connection or globally.
 
+* Users can now search for secrets by templates because Connection Manager can now filter the list of secrets by the template selected.
+
 ## Feature Updates
 
 ### Automation and Improved Workflows for Connecting to Secret Server
@@ -69,6 +71,10 @@
 ## Known Issues
 
 * When using some versions of Connection Manager on a Mac to launch a secret through Secret Server, the connection fails. To fix this issue, try upgrading to the newest version of Connection Manager.
+
+## Maintenance 
+
+* Upgraded the embedded Chromium Browser to version 89.0.17 to support the latest stable channel of Chromium.
 
 ## General Information
 
