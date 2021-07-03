@@ -21,23 +21,21 @@
 
 * Users can now search for secrets by templates because Connection Manager can now filter the list of secrets by the template selected.
 
-## Feature Updates
+## Automation and Improved Workflows
 
-### Automation and Improved Workflows for Connecting to Secret Server
+Connection Manager now provides guided workflows and automated default behaviors that simplify the processes of connecting to Secret Server and searching for secrets.
 
-* To search for and find a secret, users must first be connected to Secret Server. In previous releases of Connection Manager, users had to first manually search for and select an active connection to Secret Server, and if they couldn’t find one after searching, they had to remember to manually create one.
+* If you begin to search for a secret but you have no active connection to Secret Server, Connection Manager reminds you to set up an active connection before your search can proceed. If you begin to search for a secret and you have active connections to Secret Server but you haven't chosen one, Connection Manager now automatically chooses an active connection for you.
 
-   Now Connection Manager provides guided workflows and automated default behaviors that make this process much easier. If you begin to search for a secret without first choosing an active connection to Secret Server, Connection Manager automatically searches for and chooses an active connection for you. If you begin to search for a secret and you have no active connections to Secret Server, Connection Manager reminds you to set up an active connection before your search can proceed.
+* When a user initiates a connection using a secret that requires checkout, Connection Manager now presents a notification reminding the user to check in the secret when they are finished using it. This reminder is useful because if a user forgets to check a secret back in when they are finished, the secret will be unavailable to anyone else until the secret timer expires, which could be 24 hours or longer. This behavior mimics the user experience that Secret Server has provided for some time.
 
-### Automation and Improved Workflows for Searching for Secrets
-
-* In previous releases of Connection manager, once connected to Secret Server, the user had to decide on and manually select a folder in which to perform a search for their secret. Now the user can begin to search for a secret right away, without deciding on or selecting a folder. In this situation, Connection manager automatically selects the top-most folder (connection) and performs an exhaustive downward search from there, covering every file in the folder selected, and every file in every level of subfolder all the way to the ends of the folder structure. This is already the default search behavior when mapping a secret to a local connection in the Mapping dialog.
+* In previous releases of Connection manager, once connected to Secret Server, the user had to decide on and manually select a folder in which to perform a search for their secret. Now Connection Manager automatically selects the top-most folder (connection) and performs an exhaustive downward search from there, covering every file in the folder selected, and every file in every level of subfolder all the way to the ends of the folder structure. This is already the default search behavior when mapping a secret to a local connection in the Mapping dialog.
 
    If the user selects a folder to begin their search, Connection Manager performs an exhaustive downward search from there, covering every file in the folder selected, and every file in every level of subfolder all the way to the ends of the folder structure.
 
 * When connecting from previous releases of Connection Manager to Secret Server, users could select individual secrets to create connections from. Now users can also choose to select all secrets at once, then deselect any individual secrets that are not needed. This feature saves time for users who need to create initial connections using all or most secrets from a large collection of secrets.
 
-* Users can now import RDP and SSH connections in CSV format from a file created in a third party platform including Devolutions, Microsoft Remote Desktop, and Royal TS.
+* Users can now import RDP and SSH connections in CSV format from a file created in a third party platform including Devolutions, Microsoft Remote Desktop, and Royal TS. Connection Manager automatically detects the CSV file format, checks field mappings for ConnectionType, Name, Host, and CredentialUsername, concatenates the "CredentialsDomain" column with the "CredentialsUsername" column, and provides a confirmation message when the import is complete.
 
 * Users can now pre-select Secret Server connections to automatically launch and authenticate on startup.
 
@@ -45,11 +43,9 @@
 
 * When a user is launching multiple sessions simultaneously, Connection Manager now offers a one-click option to select a single launcher for all sessions.
 
-* When a user initiates a connection using a secret that requires checkout, Connection Manager now presents a notification reminding the user to check in the secret when they are finished using it.
-
 * Users can now open more than one instance of Connection Manager per user on each server.
 
-* Administrators can now bypass encryption for the local vault database (DAT), thereby disabling local connection credentials and local vault passwords.
+* For added security, administrators and users can now disable storage of connection credentials and passwords in a local data vault. When use of the local data vault is disabled, the user cannot create local RDP or SSH connections to servers. When the local vault is already enabled and the user disables it, any existing local connections will be permanently deleted and the user will be unable to create new local connections. Users will only be able to access secrets that are synched from Secret Server. The user will not need to log into Connection Manager each time they open the application, but since they cannot save Secret Server connections or credentials locally, they will need to log into Secret Server when they open Connection Manager.
 
 * Users can now use the same DAT file on Windows and Mac systems.
 
