@@ -4,7 +4,7 @@
 
 # Use a Custom Logo in the Connection Manager Interface
 
-In Connection Manager version 1.6 and higher, you can substitute the default logo in the Connection Manager interface with your own company branded logo using either of the two procedures below.
+In Connection Manager version 1.6.0 and higher, you can substitute the default logo in the Connection Manager interface with your own company branded logo using either of the two procedures below.
 
 ## Manual Procedure
 
@@ -23,6 +23,6 @@ In Connection Manager version 1.6 and higher, you can substitute the default log
 
 ## Command Line Procedure
 
-Users with administrator privileges can also specify the location of custom logo files during installation by running the following command:
+Users with administrator privileges can specify the location of custom logo files during installation by running the following command:
 
 `Thycotic.ConnectionManager.WindowsInstaller /quiet RUNCM=runCM KEYS="-logo C:\install\logo.png -logocollapsed C:\install\logocollapsed.png"`

@@ -13,39 +13,37 @@
 
 ## New Features
 
-* Organizations can now upload their own logo to replace the Thycotic logo in the Connection Manager application interface.
+* For added security, administrators and users can now disable storage of connection credentials and passwords in a local data vault. When the local data vault is disabled, the user cannot create local RDP or SSH connections. When the local vault is already enabled and the user disables it, any existing local connections are permanently deleted and the user will only be able to access secrets that are synched from Secret Server. The user will not need to log into Connection Manager each time they open the application, but they will need to log into Secret Server when they open Connection Manager.
+
+* Users can now import RDP and SSH connections in CSV format from a file created in a third party platform, including Devolutions, Microsoft Remote Desktop, and Royal TS. Connection Manager automatically detects the CSV file format, checks field mappings for ConnectionType, Name, Host, and CredentialUsername, concatenates the "CredentialsDomain" column with the "CredentialsUsername" column, and provides a confirmation message when the import is complete.
 
 * Users can now customize the display of columns in the secret list window, including which columns are displayed, the width of each column, and the order in which items appear in each column (alphanumerical or reverse alphanumerical). The custom settings can also be saved together as a default.
 
+* Users can now use SSH Proxy to make a local connection to Secret Server using mapped credentials,a capability previously available only for RDP Proxy.
+
 * Users can now use Windows key combination shortcuts in an RDP session. These settings can be configured per connection or globally.
 
-* Users can now search for secrets by templates because Connection Manager can now filter the list of secrets by the template selected.
+* Organizations can now upload their own logo to replace the Thycotic logo in the Connection Manager application interface.
+
+* Users can now pre-select Secret Server connections to automatically launch and authenticate on startup.
+
+* Users can now search for secrets by the template they are based on.  
 
 ## Automation and Improved Workflows
 
 Connection Manager now provides guided workflows and automated default behaviors that simplify the processes of connecting to Secret Server and searching for secrets.
 
-* If you begin to search for a secret but you have no active connection to Secret Server, Connection Manager reminds you to set up an active connection before your search can proceed. If you begin to search for a secret and you have active connections to Secret Server but you haven't chosen one, Connection Manager now automatically chooses an active connection for you.
-
-* When a user initiates a connection using a secret that requires checkout, Connection Manager now presents a notification reminding the user to check in the secret when they are finished using it. This reminder is useful because if a user forgets to check a secret back in when they are finished, the secret will be unavailable to anyone else until the secret timer expires, which could be 24 hours or longer. This behavior mimics the user experience that Secret Server has provided for some time.
-
-* In previous releases of Connection manager, once connected to Secret Server, the user had to decide on and manually select a folder in which to perform a search for their secret. Now Connection Manager automatically selects the top-most folder (connection) and performs an exhaustive downward search from there, covering every file in the folder selected, and every file in every level of subfolder all the way to the ends of the folder structure. This is already the default search behavior when mapping a secret to a local connection in the Mapping dialog.
-
-   If the user selects a folder to begin their search, Connection Manager performs an exhaustive downward search from there, covering every file in the folder selected, and every file in every level of subfolder all the way to the ends of the folder structure.
+* In previous releases of Connection manager, the user could not search for a secret without first selecting a folder to search in. Now Connection Manager automatically selects the top-most folder (connection) and performs an exhaustive downward search from there, covering every file in the folder selected, and every file in every level of subfolder. This is already the default search behavior when mapping a secret to a local connection in the Mapping dialog. If the user selects a folder to begin their search, Connection Manager performs an exhaustive downward search from there.
 
 * When connecting from previous releases of Connection Manager to Secret Server, users could select individual secrets to create connections from. Now users can also choose to select all secrets at once, then deselect any individual secrets that are not needed. This feature saves time for users who need to create initial connections using all or most secrets from a large collection of secrets.
 
-* Users can now import RDP and SSH connections in CSV format from a file created in a third party platform including Devolutions, Microsoft Remote Desktop, and Royal TS. Connection Manager automatically detects the CSV file format, checks field mappings for ConnectionType, Name, Host, and CredentialUsername, concatenates the "CredentialsDomain" column with the "CredentialsUsername" column, and provides a confirmation message when the import is complete.
+* When a user initiates a connection using a secret that requires checkout, Connection Manager now presents a notification reminding the user to check in the secret when they are finished using it. This behavior, which mimics the user experience that Secret Server has provided for some time, helps to prevent secrets from being unnecessarily unavailable to others for 24 hours or longer.
 
-* Users can now pre-select Secret Server connections to automatically launch and authenticate on startup.
-
-* Users can now use SSH Proxy to make a local connection to Secret Server using mapped credentials. Users already had this capability using RDP Proxy.
+* If you begin to search for a secret and you have active connections to Secret Server but you haven't chosen one, Connection Manager now automatically chooses an active connection for you. If you begin to search for a secret but you have no active connection to Secret Server, Connection Manager reminds you to set up an active connection before your search can proceed.
 
 * When a user is launching multiple sessions simultaneously, Connection Manager now offers a one-click option to select a single launcher for all sessions.
 
 * Users can now open more than one instance of Connection Manager per user on each server.
-
-* For added security, administrators and users can now disable storage of connection credentials and passwords in a local data vault. When use of the local data vault is disabled, the user cannot create local RDP or SSH connections to servers. When the local vault is already enabled and the user disables it, any existing local connections will be permanently deleted and the user will be unable to create new local connections. Users will only be able to access secrets that are synched from Secret Server. The user will not need to log into Connection Manager each time they open the application, but since they cannot save Secret Server connections or credentials locally, they will need to log into Secret Server when they open Connection Manager.
 
 * Users can now use the same DAT file on Windows and Mac systems.
 
