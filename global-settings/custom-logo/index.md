@@ -8,7 +8,7 @@ In Connection Manager version 1.6.0 and higher, you can substitute the default l
 
 ## Manual Procedure
 
-1. Create two versions of your logo image file in PNG format.
+1. Create two versions of your logo image file in PNG format, with names exactly as specified below:
 
    * One sized to 250 x 50 pixels, named `logo.png`. This version is the full-sized logo that will appear in the main interface.
 

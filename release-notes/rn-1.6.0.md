@@ -27,6 +27,8 @@
 
 * Users can now pre-select Secret Server connections to automatically launch and authenticate on startup.
 
+* Users can now create and edit secrets in Secret Server using a link in Connection Manager.
+
 * Users can now search for secrets by the template they are based on.  
 
 ## Automation and Improved Workflows
@@ -66,7 +68,7 @@ Connection Manager now provides guided workflows and automated default behaviors
 
 * When using some versions of Connection Manager on a Mac to launch a secret through Secret Server, the connection fails. To fix this issue, try upgrading to the newest version of Connection Manager.
 
-## Maintenance 
+## Maintenance
 
 * Upgraded the embedded Chromium Browser to version 89.0.17 to support the latest stable channel of Chromium.
 

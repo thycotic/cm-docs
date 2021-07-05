@@ -1,10 +1,10 @@
 [title]: # (Local Data Vault)
-[tags]: # (configure, local, data vault)
+[tags]: # (configure,local,data vault)
 [priority]: # (350)
 
 # Local Data Vault
 
-A local data vault is an encrypted and password-protected data file saved on the user's machine that stores local connection credentials and passwords.
+A local data vault is an encrypted and password-protected data file saved on the user's machine that stores local connection credentials and passwords. With the local data vault enabled, the user can create local RDP and SSH connections, and save the connections and credentials locally. The user must protect this local data by logging into Connection Manager with their password each time they open the application. As soon as the user logs into Connection Manager, they are automatically connected to Secret Server.
 
 ## Enable Local Data Vault on Installation or Upgrade 
 When Connection Manager is installed on a machine for the first time, or when upgrading to version 1.6.0 or higher, the application asks, "How will you use Connection Manager?"
@@ -20,8 +20,6 @@ The second choice, **Only use secrets synched from Secret Server** disables use 
 In the workflow for connecting to Secret Server, the user can choose a "Remember me" option to store their credentials to a local data vault. 
 
    ![local-data-vault](images/remember-me.png "How will you use Connection Manager?")
-
-With the local data vault enabled, the user can create local RDP and SSH connections, and save the connections and credentials locally. The user must protect this local data by logging into Connection Manager with their password each time they open the application. As soon as the user logs into Connection Manager, they are automatically connected to Secret Server.
 
 ## Disable Local Data Vault
 
