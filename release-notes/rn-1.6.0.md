@@ -48,8 +48,10 @@ Connection Manager now provides guided workflows and automated default behaviors
 
 * In the process for launching a single local connection/secret, the "Connect" action is now named "Launch Connection" in the interface.
 
+* Under Global Configurations, a *Preferences* tab has been added enabling users to choose how server names and secret names appear on tabs and thumbnails.
+
 * When a user is proxying from local connections, the name of the server connected to now appears first, in the following format:
-**[ServerName] - Proxied over [DE Name]**
+*[ServerName] - Proxied over [DE Name]*
 
 ## Bug Fixes
 
