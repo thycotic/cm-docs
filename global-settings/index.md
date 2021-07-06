@@ -1,6 +1,7 @@
 [title]: # (Configure Global Settings)
 [tags]: # (configure, global, settings)
 [priority]: # (400)
+
 # Configure Global Settings
 
 Global Settings allows a user to control default parameter values when creating Local connections. All default options may be overridden within the individual connections. Connections from Secret Server do not support all available parameters. In such cases the default parameters will be substituted. Any of the default configuration values that are specified in a Secret from a Secret Server connection, will use the values from the Secret instead of the Global Configurations.
@@ -9,21 +10,20 @@ On the Configuration menu, click __Global Configurations__. The Global Configura
 
    ![Global Configurations](images/global-rdp.png "Global Configurations page")
 
-On the **SSH Global Settings** tab, you can configure settings such as **Font** and **Font Size**. You can choose one of the **Color Presets** or you can create a Custom color scheme by changing the individual values for **Backgound Color**, **Foregound Color**, **Bold Color**, or **Underlined Color**. 
+On the **SSH Global Settings** tab, you can configure settings such as **Font** and **Font Size**. You can choose one of the **Color Presets** or you can create a Custom color scheme by changing the individual values for **Backgound Color**, **Foregound Color**, **Bold Color**, or **Underlined Color**.
 
    ![Global Configurations](images/ssh-color-picker.png "Global Configurations page")
 
 
-On the **Launcher Settings** tab, administrators can choose to use the Connection Manager protocol handler or the legacy protocol handler, Secret Server Launcher. Users can also switch between the two protocol handlers. If both protocol handlers are installed and the administrator uninstalls one of them, the other protocol handler will register itself as the protocol handler for all users on installation. 
+On the **Launcher Settings** tab, administrators can choose to use the Connection Manager protocol handler or the legacy protocol handler, Secret Server Launcher. Users can also switch between the two protocol handlers. If both protocol handlers are installed and the administrator uninstalls one of them, the other protocol handler will register itself as the protocol handler for all users on installation.
 
    ![Global Configurations](images/global-launcher.png "Global Configurations page")
-
 
 ## Globally Enforced Secret Server Settings
 
 The following settings can be configured in Secret Server and will be applied globally for any Connection Manager application that is connected to it.
 
-To access this in Secret Server, 
+To access this in Secret Server:
 
 1. Navigate to __Admin | See All__.
 1. Select __Tools & Integrations__.
