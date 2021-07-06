@@ -1,15 +1,10 @@
-[title]: # (1.6.0 Release)
+[title]: # (1.6 Release)
 [tags]: # (release notes)
 [priority]: # (888)
 
 # 1.6.0 Release Notes
 
 *Release Date: July 6, 2021*
-
->**Note**: Installer versions:
->
-> * Windows: 1.3.0
-> * macOS: 1.3.1
 
 ## New Features
 
@@ -53,8 +48,10 @@ Connection Manager now provides guided workflows and automated default behaviors
 
 * In the process for launching a single local connection/secret, the "Connect" action is now named "Launch Connection" in the interface.
 
+* Under Global Configurations, a *Preferences* tab has been added enabling users to choose how server names and secret names appear on tabs and thumbnails.
+
 * When a user is proxying from local connections, the name of the server connected to now appears first, in the following format:
-**[ServerName] - Proxied over [DE Name]**
+*[ServerName] - Proxied over [DE Name]*
 
 ## Bug Fixes
 
@@ -77,5 +74,3 @@ Connection Manager now provides guided workflows and automated default behaviors
 * Connection Manager does not support Windows Server 2003.
 
 * For Unicode characters, Connection Manager supports UTF-8 encoding.
-
-* In Connection Manager 1.4.1, SSL certification check bypass is not possible for the web login method. This behavior is intentional.
