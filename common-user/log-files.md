@@ -25,6 +25,6 @@ Catalina: `~/Library/Application Support/Thycotic/Connection Manager/ConnectionM
 On macOS you change the logging level of Connection Manager's logs to DEBUG mode by opening __Terminal__ and type:
 
 ```bash
-defaults write com.Thycotic.ConnectionManager FileLogLevel 'Debug'
+defaults write com.Thycotic.ConnectionManager Log.FileLevel Debug
 ```
 
